@@ -2221,7 +2221,7 @@ STR_2213    :{SMALLFONT}{BLACK}Show list of entertainers in park
 STR_2214    :Construction not possible while game is paused!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}F
+STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
 STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
 STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
@@ -2294,7 +2294,7 @@ STR_2286    :Designing
 STR_2287    :Completing design
 STR_2288    :Unknown
 STR_2289    :{STRINGID} {STRINGID}
-STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
+STR_2290    :<not used anymore>
 STR_2291    :Select scenario for new game
 STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
@@ -2371,7 +2371,7 @@ STR_2363    :Gridlines on Landscape
 STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius ({DEGREE}C)
-STR_2367    :Fahrenheit (F)
+STR_2367    :Fahrenheit ({DEGREE}F)
 STR_2368    :None
 STR_2369    :Low
 STR_2370    :Average
@@ -2712,7 +2712,7 @@ STR_2703    :Every 15 minutes
 STR_2704    :Every 30 minutes
 STR_2705    :Every hour
 STR_2706    :Never
-STR_2707    :Open new window
+STR_2707    :Use system dialog window
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
 STR_2710    :Type the name of the file.
@@ -2723,8 +2723,8 @@ STR_2714    :-
 STR_2715    :.
 STR_2716    :/
 STR_2717    :'
-STR_2718    :(up)
-STR_2719    :(new file)
+STR_2718    :Up
+STR_2719    :New file
 STR_2720    :{UINT16}sec
 STR_2721    :{UINT16}secs
 STR_2722    :{UINT16}min:{UINT16}sec
@@ -3828,7 +3828,7 @@ STR_5484    :{BLACK}({COMMA16} week remaining)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Show recent messages
-STR_5488    :No entrance
+STR_5488    :No entrance (OpenRCT2 only!)
 STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
 STR_5490    :Disable audio on focus loss
 STR_5491    :Inventions list
@@ -3855,7 +3855,7 @@ STR_5511    :(UNKNOWN)
 STR_5512    :Save Game As
 STR_5513    :(Quick) save game
 STR_5514    :Disable vandalism
-STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
+STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalizing your park when they're angry
 STR_5516    :{SMALLFONT}{BLACK}Black
 STR_5517    :{SMALLFONT}{BLACK}Gray
 STR_5518    :{SMALLFONT}{BLACK}White
@@ -3865,8 +3865,8 @@ STR_5521    :{SMALLFONT}{BLACK}Bright purple
 STR_5522    :{SMALLFONT}{BLACK}Dark blue
 STR_5523    :{SMALLFONT}{BLACK}Light blue
 STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Teal
-STR_5526    :{SMALLFONT}{BLACK}Aquamarine
+STR_5525    :{SMALLFONT}{BLACK}Dark water
+STR_5526    :{SMALLFONT}{BLACK}Light water
 STR_5527    :{SMALLFONT}{BLACK}Saturated green
 STR_5528    :{SMALLFONT}{BLACK}Dark green
 STR_5529    :{SMALLFONT}{BLACK}Moss green
@@ -3893,6 +3893,34 @@ STR_5549    :Year/Month/Day
 STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Year/Day/Month
 STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5553    :Pause game when Steam overlay is open
+STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
+STR_5555    :Show vehicles from other track types
+STR_5556    :Kick Player
+STR_5557    :Stay connected after desynchronization (Multiplayer)
+STR_5558    :A restart is required for this setting to take effect
+STR_5559    :10 min. inspections
+STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
+STR_5561    :Failed to load language
+STR_5562    :WARNING!
+STR_5563    :This feature is currently unstable, take extra caution.
+STR_5564    :Insert Corrupt Element
+STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
+STR_5566    :Password:
+STR_5567    :Advertise
+STR_5568    :Password Required
+STR_5569    :This server requires a password
+STR_5570    :Fetch Servers
+STR_5571    :Join Game
+STR_5572    :Add To Favorites
+STR_5573    :Remove From Favorites
+STR_5574    :Server Name:
+STR_5575    :Max Players:
+STR_5576    :Port:
+STR_5577    :South Korean Won (W)
+STR_5578    :Russian Ruble (R)
+STR_5579    :Window scale factor:
+STR_5580    :Czech koruna (Kc)
 
 #########
 # Rides #

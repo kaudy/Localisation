@@ -3,96 +3,96 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railway
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Boat Ride
-STR_0011    :Wooden Wild Mouse
-STR_0012    :Steeplechase
-STR_0013    :Car Ride
-STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
-STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
-STR_0023    :Spiral Slide
-STR_0024    :Go Karts
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Dodgems
-STR_0028    :Pirate Ship
-STR_0029    :Swinging Inverter Ship
-STR_0030    :Food Stall
-STR_0031    :Unknown Stall (1D)
-STR_0032    :Drink Stall
-STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
+STR_0002    :Spirálová horská dráha
+STR_0003    :Horská dráha ve stoje
+STR_0004    :Závěsná houpající se horská dráha
+STR_0005    :Obrácená horská dráha
+STR_0006    :Dorostenecká horská dráha
+STR_0007    :Miniaturní železnice
+STR_0008    :Vysutá jednokolejka
+STR_0009    :Malá zavěsná dráha
+STR_0010    :Lodní dráha
+STR_0011    :Divoká myš
+STR_0012    :Překážkový dostih
+STR_0013    :Automobilová dráha
+STR_0014    :Vystřelovaný volný pád
+STR_0015    :Bobová dráha
+STR_0016    :Vyhlídková věž
+STR_0017    :Smyčkující horská dráha
+STR_0018    :Sjezd na člunech
+STR_0019    :Dráha důlního vlaku
+STR_0020    :Lanovka
+STR_0021    :Vývrtková horská dráha
+STR_0022    :Bludiště
+STR_0023    :Točitá skluzavka
+STR_0024    :Motokáry
+STR_0025    :Žlab s kládamy
+STR_0026    :Říční peřeje
+STR_0027    :Autodrom
+STR_0028    :Pirátská loď
+STR_0029    :Houpací obracecí loď
+STR_0030    :Stánek s jídlem
+STR_0031    :Neznámý obchod (1D)
+STR_0032    :Stánek s pitím
+STR_0033    :Neznámý obchod (1F)
+STR_0034    :Obchod
 STR_0035    :Merry-Go-Round
-STR_0036    :Unknown Stall (22)
-STR_0037    :Information Kiosk
-STR_0038    :Toilets
-STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Cinema
+STR_0036    :Neznámý obchod (22)
+STR_0037    :Informačí kiosek
+STR_0038    :Toalety
+STR_0039    :Ruské kolo
+STR_0040    :Simulátor pohybu
+STR_0041    :3D Kino
 STR_0042    :Top Spin
 STR_0043    :Space Rings
 STR_0044    :Reverse Freefall Coaster
-STR_0045    :Lift
+STR_0045    :Výtah
 STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :Cash Machine
+STR_0047    :Bankomat
 STR_0048    :Twist
-STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus Show
-STR_0052    :Ghost Train
+STR_0049    :Strašidelný dům
+STR_0050    :První pomoc
+STR_0051    :Cirkus
+STR_0052    :Vlak duchů
 STR_0053    :Steel Twister Roller Coaster
-STR_0054    :Wooden Roller Coaster
+STR_0054    :Dřevěná horská dráha
 STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Wild Mouse
-STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
-STR_0066    :Unknown Ride (40)
-STR_0067    :Reverser Roller Coaster
+STR_0056    :Divoká myš
+STR_0057    :Mnohorozměrná horská dráha
+STR_0058    :Neznámá atrakce (38)
+STR_0059    :Létající horská dráha
+STR_0060    :Neznámá atrakce (3A)
+STR_0061    :VIrginský moták
+STR_0062    :Cákající lodě
+STR_0063    :Mini helikoptéra
+STR_0064    :HOrská dráha v leže
+STR_0065    :Vysutá jednokolejka
+STR_0066    :Neznámá atrakce (40)
+STR_0067    :Obrácená horská dráha
 STR_0068    :Heartline Twister Coaster
 STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
+STR_0070    :Obří dráha
 STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
-STR_0073    :Crooked House
-STR_0074    :Monorail Cycles
+STR_0072    :Létající talíř
+STR_0073    :Křivý dům
+STR_0074    :Jenostopá kola
 STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
+STR_0076    :Vodní dráha
 STR_0077    :Air Powered Vertical Coaster
 STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
-STR_0080    :Submarine Ride
-STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
+STR_0079    :Kouzelný koberec
+STR_0080    :Podmořská jízda
+STR_0081    :Rafty
+STR_0082    :Neznámá atrakce (50)
 STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
+STR_0084    :Neznámá atrakce (52)
+STR_0085    :Neznámá atrakce (53)
+STR_0086    :Neznámá atrakce (54)
+STR_0087    :Neznámá atrakce (55)
 STR_0088    :Inverted Impulse Coaster
-STR_0089    :Mini Roller Coaster
-STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
+STR_0089    :Malá horská dráha
+STR_0090    :Mini dráha
+STR_0091    :Neznámá atrakce (59)
 STR_0092    :LIM Launched Roller Coaster
 STR_0093    :
 STR_0094    :
@@ -514,30 +514,30 @@ STR_0509    :
 STR_0510    :
 STR_0511    :
 STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
-STR_0513    :A looping roller coaster where the riders ride in a standing position
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
-STR_0518    :Passengers travel in electric trains along a monorail track
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
-STR_0520    :A dock platform where guests can drive/row personal watercraft on a body of water
-STR_0521    :A fast and twisting roller coaster with tight turns and steep drops. Intensity is bound to be high.
-STR_0522    :A smaller roller coaster where the riders sit above the track with no car around them
-STR_0523    :Riders travel slowly in powered vehicles along a track-based route
-STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
+STR_0513    :Horská dráha se smyčkami na které se jezdí ve stoje
+STR_0514    :Vlaky zavješené pod kolejí se v zatáčkách houpají do stran
+STR_0515    :Ocelová horská dráha s vlaky držícími zespod tratí, s mnoha složitími a otáčivímy prvky
+STR_0516    :Pozvolná horská dráha pro ty kdo se zatím neodvažují na větší dráhy
+STR_0517    :Pasažeři jedou v miniaturních vlacích po úzkorozchodné koleji.
+STR_0518    :Cestujíci jedou v elektických vlacích po vysuté jednokolejné dráze.
+STR_0519    :Cestujíci jedou zavěšení pod jednou kolejí  v malích kabinách, volně se houpajících ze strany na stranu
+STR_0520    :Přístavní molo kde hosté mohou řídit osobní plavidlo na vodní hladině
+STR_0521    :Rychlá a mrštná horská dráha s ostrými zákrutami a strmími svahy. Dráha je předurčená k vysoké intensitě.
+STR_0522    :Menší horská dráha na které hosté sedí nad dráhou bez kabiny kolem sebe
+STR_0523    :Hosté jedou pomalu v hnaných vozidlech po určené trati.
+STR_0524    :Kabina Freefall je pneumaticky vstřelena nahorů po vysoké ocelové věži a pak padá zpět volným pádem
 STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
-STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
-STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
-STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
-STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
+STR_0526    :Pasažéři jsou v otáčející se rozhledně která vyjede na vysokou věž
+STR_0527    :Plynulá ocelová pásová horská dráha schopná vertikálních smyček
+STR_0528    :Hosté sjíždí v nafukovacích člunech zatáčejícím korytem nebo uzavřenou trubicí
+STR_0529    :Ocelová horská dráha ve stylu důlního vlaku s věrnými důlními kolejemi.
+STR_0530    :Kabiny vysí na ocelovém laně které nepřetržitě jede z jednoho konce na druhý a zpět
+STR_0531    :Kompaktní ocelová horská dráha na které vlak projíždí smyčky a vývrtky
 STR_0532    :
 STR_0533    :
-STR_0534    :Self-drive petrol-engined go karts
-STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
+STR_0534    :Hosté sami řídí benzínové motokáry
+STR_0535    :Lodě ve tvaru klády jedou po vodní kanále, splavujíse se po strmích kopcích. Žádny host nezůstane suchý.
+STR_0536    :Loď pluje po šírokých maeandrech, přes stříkající vodpoády a po vzrušujících pěnících přejích
 STR_0537    :
 STR_0538    :
 STR_0539    :
@@ -556,36 +556,36 @@ STR_0551    :
 STR_0552    :
 STR_0553    :
 STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Guests ride in an elevator up or down a vertical tower to get from one level to another
-STR_0556    :Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience
+STR_0555    :Hosté jedou ve výtahu nahoů nebo dolů ve svislé věži aby se dostaly z jedné výsky do jiné
+STR_0556    :Extra široké vozy se vrhaji střemhlav dolů za zážitky úplného volného pádu na horské dráze
 STR_0557    :
 STR_0558    :
 STR_0559    :
 STR_0560    :
 STR_0561    :
-STR_0562    :Powered cars travel along a multi-level track past spooky scenery and special effects
+STR_0562    :Hnané vozy jedou po několika-patrové dráze plné strašidelných kulis a speciálních efektů
 STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
-STR_0564    :Running on wooden track, this coaster is fast, rough, noisy, and gives an 'out of control' riding experience with plenty of 'air time'
-STR_0565    :A simple wooden roller coaster capable of only gentle slopes and turns, where the cars are only kept on the track by side friction wheels and gravity
+STR_0564    :Při jízdou po dřevěné dráze je tato horská dráha rychlá, drsná, hlučná a poskytuje pocit „vymuknutí řízení“ s mnoha „pocity beztíže“
+STR_0565    :Jednoduchá dřevěná horská tráha schopná jen mírných kopců a zatáček, na které je vůz držen jen bočnímy kolečky a gravitací
 STR_0566    :Individual roller coaster cars zip around a tight zig-zag layout of track with sharp corners and short sharp drops
 STR_0567    :Sitting in seats suspended either side of the track, riders are pitched head-over-heels while they plunge down steep drops and travel through various inversions
 STR_0568    :
-STR_0569    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air
+STR_0569    :Jíza ve speciálních postrojích zavěšených pod tratí, poskytuje pocit letu, jako když se vrhnete do prázdna
 STR_0570    :
-STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
-STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travlling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
+STR_0571    :Kulaté vozy se otáčeí dokola tím jak projíždějí dřevěnou klikatou tratí
+STR_0572    :Lodě s velkou kapacitou jedou po širokém vodním kanále, vzhůru poháněné bežícím pásem, zrychlují z prudkých svahů aby obrovským šplouchnutím namočili všechny hosty
+STR_0573    :Hnané vozy ve tvaru helikoptér jedou na ocelové trati
+STR_0574    :Hosté ve speciálních postrojích zavěšení v leže pod tratí, jedou přes zákruty a obraty pozadu nebo čelem k zemi
+STR_0575    :Poháněné vlaky vysící pod vysuto kolejí převážejí lidi po parku
 STR_0576    :
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
+STR_0577    :Vozy s dvěma podvozky jedou po dřevěné trati, otáčející se dokola na speciálních místech
 STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
 STR_0579    :
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
-STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
+STR_0580    :Obrovská ocelová horská dráha s hladkými obraty a svahy přes 90 metrů
+STR_0581    :Kruh sedadel je za pomalého otáčení vyzdvyhnut na vrchol věže, poté se vrátí volným pádem a postupně zastaví ve stanici pomocí magnetických brzd
 STR_0582    :
 STR_0583    :
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
+STR_0584    :Speciální kola jezdí po ocelové koleji, poháněná šlapáním jezdců
 STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
 STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
 STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
@@ -604,243 +604,241 @@ STR_0599    :A compact roller coaster with individual cars and smooth twisting d
 STR_0600    :Powered mine trains career along a smooth and twisted track layout
 STR_0601    :
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-# ------------------------------------------ Polish start
-STR_0603    :Gość {INT32}
-STR_0604    :Gość {INT32}
-STR_0605    :Gość {INT32}
-STR_0606    :Gość {INT32}
-STR_0607    :Gość {INT32}
-STR_0608    :Gość {INT32}
-STR_0609    :Gość {INT32}
-STR_0610    :Gość {INT32}
-STR_0611    :Gość {INT32}
-STR_0612    :Gość {INT32}
-STR_0613    :Gość {INT32}
-STR_0614    :Gość {INT32}
-STR_0615    :Gość {INT32}
-STR_0616    :Gość {INT32}
-STR_0617    :Gość {INT32}
-STR_0618    :Gość {INT32}
-STR_0619    :Gość {INT32}
-STR_0620    :Gość {INT32}
-STR_0621    :Gość {INT32}
-STR_0622    :Gość {INT32}
-STR_0623    :Gość {INT32}
-STR_0624    :Gość {INT32}
-STR_0625    :Gość {INT32}
-STR_0626    :Gość {INT32}
-STR_0627    :Gość {INT32}
-STR_0628    :Gość {INT32}
-STR_0629    :Gość {INT32}
-STR_0630    :Gość {INT32}
-STR_0631    :Gość {INT32}
-STR_0632    :Gość {INT32}
-STR_0633    :Gość {INT32}
-STR_0634    :Gość {INT32}
-STR_0635    :Gość {INT32}
-STR_0636    :Gość {INT32}
-STR_0637    :Gość {INT32}
-STR_0638    :Gość {INT32}
-STR_0639    :Gość {INT32}
-STR_0640    :Gość {INT32}
-STR_0641    :Gość {INT32}
-STR_0642    :Gość {INT32}
-STR_0643    :Gość {INT32}
-STR_0644    :Gość {INT32}
-STR_0645    :Gość {INT32}
-STR_0646    :Gość {INT32}
-STR_0647    :Gość {INT32}
-STR_0648    :Gość {INT32}
-STR_0649    :Gość {INT32}
-STR_0650    :Gość {INT32}
-STR_0651    :Gość {INT32}
-STR_0652    :Gość {INT32}
-STR_0653    :Gość {INT32}
-STR_0654    :Gość {INT32}
-STR_0655    :Gość {INT32}
-STR_0656    :Gość {INT32}
-STR_0657    :Gość {INT32}
-STR_0658    :Gość {INT32}
-STR_0659    :Gość {INT32}
-STR_0660    :Gość {INT32}
-STR_0661    :Gość {INT32}
-STR_0662    :Gość {INT32}
-STR_0663    :Gość {INT32}
-STR_0664    :Gość {INT32}
-STR_0665    :Gość {INT32}
-STR_0666    :Gość {INT32}
-STR_0667    :Gość {INT32}
-STR_0668    :Gość {INT32}
-STR_0669    :Gość {INT32}
-STR_0670    :Gość {INT32}
-STR_0671    :Gość {INT32}
-STR_0672    :Gość {INT32}
-STR_0673    :Gość {INT32}
-STR_0674    :Gość {INT32}
-STR_0675    :Gość {INT32}
-STR_0676    :Gość {INT32}
-STR_0677    :Gość {INT32}
-STR_0678    :Gość {INT32}
-STR_0679    :Gość {INT32}
-STR_0680    :Gość {INT32}
-STR_0681    :Gość {INT32}
-STR_0682    :Gość {INT32}
-STR_0683    :Gość {INT32}
-STR_0684    :Gość {INT32}
-STR_0685    :Gość {INT32}
-STR_0686    :Gość {INT32}
-STR_0687    :Gość {INT32}
-STR_0688    :Gość {INT32}
-STR_0689    :Gość {INT32}
-STR_0690    :Gość {INT32}
-STR_0691    :Gość {INT32}
-STR_0692    :Gość {INT32}
-STR_0693    :Gość {INT32}
-STR_0694    :Gość {INT32}
-STR_0695    :Gość {INT32}
-STR_0696    :Gość {INT32}
-STR_0697    :Gość {INT32}
-STR_0698    :Gość {INT32}
-STR_0699    :Gość {INT32}
-STR_0700    :Gość {INT32}
-STR_0701    :Gość {INT32}
-STR_0702    :Gość {INT32}
-STR_0703    :Gość {INT32}
-STR_0704    :Gość {INT32}
-STR_0705    :Gość {INT32}
-STR_0706    :Gość {INT32}
-STR_0707    :Gość {INT32}
-STR_0708    :Gość {INT32}
-STR_0709    :Gość {INT32}
-STR_0710    :Gość {INT32}
-STR_0711    :Gość {INT32}
-STR_0712    :Gość {INT32}
-STR_0713    :Gość {INT32}
-STR_0714    :Gość {INT32}
-STR_0715    :Gość {INT32}
-STR_0716    :Gość {INT32}
-STR_0717    :Gość {INT32}
-STR_0718    :Gość {INT32}
-STR_0719    :Gość {INT32}
-STR_0720    :Gość {INT32}
-STR_0721    :Gość {INT32}
-STR_0722    :Gość {INT32}
-STR_0723    :Gość {INT32}
-STR_0724    :Gość {INT32}
-STR_0725    :Gość {INT32}
-STR_0726    :Gość {INT32}
-STR_0727    :Gość {INT32}
-STR_0728    :Gość {INT32}
-STR_0729    :Gość {INT32}
-STR_0730    :Gość {INT32}
-STR_0731    :Gość {INT32}
-STR_0732    :Gość {INT32}
-STR_0733    :Gość {INT32}
-STR_0734    :Gość {INT32}
-STR_0735    :Gość {INT32}
-STR_0736    :Gość {INT32}
-STR_0737    :Gość {INT32}
-STR_0738    :Gość {INT32}
-STR_0739    :Gość {INT32}
-STR_0740    :Gość {INT32}
-STR_0741    :Gość {INT32}
-STR_0742    :Gość {INT32}
-STR_0743    :Gość {INT32}
-STR_0744    :Gość {INT32}
-STR_0745    :Gość {INT32}
-STR_0746    :Gość {INT32}
-STR_0747    :Gość {INT32}
-STR_0748    :Gość {INT32}
-STR_0749    :Gość {INT32}
-STR_0750    :Gość {INT32}
-STR_0751    :Gość {INT32}
-STR_0752    :Gość {INT32}
-STR_0753    :Gość {INT32}
-STR_0754    :Gość {INT32}
-STR_0755    :Gość {INT32}
-STR_0756    :Gość {INT32}
-STR_0757    :Gość {INT32}
-STR_0758    :Gość {INT32}
-STR_0759    :Gość {INT32}
-STR_0760    :Gość {INT32}
-STR_0761    :Gość {INT32}
-STR_0762    :Gość {INT32}
-STR_0763    :Gość {INT32}
-STR_0764    :Gość {INT32}
-STR_0765    :Gość {INT32}
-STR_0766    :Gość {INT32}
-STR_0767    :Gość {INT32}
-STR_0768    :Dozorca {INT32}
-STR_0769    :Mechanik {INT32}
-STR_0770    :Strażnik {INT32}
-STR_0771    :Komik {INT32}
-STR_0772    :Park bez nazwy{POP16}{POP16}
-STR_0773    :Park bez nazwy{POP16}{POP16}
-STR_0774    :Park bez nazwy{POP16}{POP16}
-STR_0775    :Park bez nazwy{POP16}{POP16}
-STR_0776    :Park bez nazwy{POP16}{POP16}
-STR_0777    :Park bez nazwy{POP16}{POP16}
-STR_0778    :Znak
-STR_0779    :1
-STR_0780    :2
-STR_0781    :3
-STR_0782    :4
-STR_0783    :5
-STR_0784    :6
-STR_0785    :7
-STR_0786    :8
-STR_0787    :9
-STR_0788    :10
-STR_0789    :11
-STR_0790    :12
-STR_0791    :13
-STR_0792    :14
-STR_0793    :15
-STR_0794    :16
-STR_0795    :17
-STR_0796    :18
-STR_0797    :19
-STR_0798    :20
-STR_0799    :21
-STR_0800    :22
-STR_0801    :23
-STR_0802    :24
-STR_0803    :25
-STR_0804    :26
-STR_0805    :27
-STR_0806    :28
-STR_0807    :29
-STR_0808    :30
-STR_0809    :31
-STR_0810    :Sty
-STR_0811    :Lut
+STR_0603    :Host {INT32}
+STR_0604    :Host {INT32}
+STR_0605    :Host {INT32}
+STR_0606    :Host {INT32}
+STR_0607    :Host {INT32}
+STR_0608    :Host {INT32}
+STR_0609    :Host {INT32}
+STR_0610    :Host {INT32}
+STR_0611    :Host {INT32}
+STR_0612    :Host {INT32}
+STR_0613    :Host {INT32}
+STR_0614    :Host {INT32}
+STR_0615    :Host {INT32}
+STR_0616    :Host {INT32}
+STR_0617    :Host {INT32}
+STR_0618    :Host {INT32}
+STR_0619    :Host {INT32}
+STR_0620    :Host {INT32}
+STR_0621    :Host {INT32}
+STR_0622    :Host {INT32}
+STR_0623    :Host {INT32}
+STR_0624    :Host {INT32}
+STR_0625    :Host {INT32}
+STR_0626    :Host {INT32}
+STR_0627    :Host {INT32}
+STR_0628    :Host {INT32}
+STR_0629    :Host {INT32}
+STR_0630    :Host {INT32}
+STR_0631    :Host {INT32}
+STR_0632    :Host {INT32}
+STR_0633    :Host {INT32}
+STR_0634    :Host {INT32}
+STR_0635    :Host {INT32}
+STR_0636    :Host {INT32}
+STR_0637    :Host {INT32}
+STR_0638    :Host {INT32}
+STR_0639    :Host {INT32}
+STR_0640    :Host {INT32}
+STR_0641    :Host {INT32}
+STR_0642    :Host {INT32}
+STR_0643    :Host {INT32}
+STR_0644    :Host {INT32}
+STR_0645    :Host {INT32}
+STR_0646    :Host {INT32}
+STR_0647    :Host {INT32}
+STR_0648    :Host {INT32}
+STR_0649    :Host {INT32}
+STR_0650    :Host {INT32}
+STR_0651    :Host {INT32}
+STR_0652    :Host {INT32}
+STR_0653    :Host {INT32}
+STR_0654    :Host {INT32}
+STR_0655    :Host {INT32}
+STR_0656    :Host {INT32}
+STR_0657    :Host {INT32}
+STR_0658    :Host {INT32}
+STR_0659    :Host {INT32}
+STR_0660    :Host {INT32}
+STR_0661    :Host {INT32}
+STR_0662    :Host {INT32}
+STR_0663    :Host {INT32}
+STR_0664    :Host {INT32}
+STR_0665    :Host {INT32}
+STR_0666    :Host {INT32}
+STR_0667    :Host {INT32}
+STR_0668    :Host {INT32}
+STR_0669    :Host {INT32}
+STR_0670    :Host {INT32}
+STR_0671    :Host {INT32}
+STR_0672    :Host {INT32}
+STR_0673    :Host {INT32}
+STR_0674    :Host {INT32}
+STR_0675    :Host {INT32}
+STR_0676    :Host {INT32}
+STR_0677    :Host {INT32}
+STR_0678    :Host {INT32}
+STR_0679    :Host {INT32}
+STR_0680    :Host {INT32}
+STR_0681    :Host {INT32}
+STR_0682    :Host {INT32}
+STR_0683    :Host {INT32}
+STR_0684    :Host {INT32}
+STR_0685    :Host {INT32}
+STR_0686    :Host {INT32}
+STR_0687    :Host {INT32}
+STR_0688    :Host {INT32}
+STR_0689    :Host {INT32}
+STR_0690    :Host {INT32}
+STR_0691    :Host {INT32}
+STR_0692    :Host {INT32}
+STR_0693    :Host {INT32}
+STR_0694    :Host {INT32}
+STR_0695    :Host {INT32}
+STR_0696    :Host {INT32}
+STR_0697    :Host {INT32}
+STR_0698    :Host {INT32}
+STR_0699    :Host {INT32}
+STR_0700    :Host {INT32}
+STR_0701    :Host {INT32}
+STR_0702    :Host {INT32}
+STR_0703    :Host {INT32}
+STR_0704    :Host {INT32}
+STR_0705    :Host {INT32}
+STR_0706    :Host {INT32}
+STR_0707    :Host {INT32}
+STR_0708    :Host {INT32}
+STR_0709    :Host {INT32}
+STR_0710    :Host {INT32}
+STR_0711    :Host {INT32}
+STR_0712    :Host {INT32}
+STR_0713    :Host {INT32}
+STR_0714    :Host {INT32}
+STR_0715    :Host {INT32}
+STR_0716    :Host {INT32}
+STR_0717    :Host {INT32}
+STR_0718    :Host {INT32}
+STR_0719    :Host {INT32}
+STR_0720    :Host {INT32}
+STR_0721    :Host {INT32}
+STR_0722    :Host {INT32}
+STR_0723    :Host {INT32}
+STR_0724    :Host {INT32}
+STR_0725    :Host {INT32}
+STR_0726    :Host {INT32}
+STR_0727    :Host {INT32}
+STR_0728    :Host {INT32}
+STR_0729    :Host {INT32}
+STR_0730    :Host {INT32}
+STR_0731    :Host {INT32}
+STR_0732    :Host {INT32}
+STR_0733    :Host {INT32}
+STR_0734    :Host {INT32}
+STR_0735    :Host {INT32}
+STR_0736    :Host {INT32}
+STR_0737    :Host {INT32}
+STR_0738    :Host {INT32}
+STR_0739    :Host {INT32}
+STR_0740    :Host {INT32}
+STR_0741    :Host {INT32}
+STR_0742    :Host {INT32}
+STR_0743    :Host {INT32}
+STR_0744    :Host {INT32}
+STR_0745    :Host {INT32}
+STR_0746    :Host {INT32}
+STR_0747    :Host {INT32}
+STR_0748    :Host {INT32}
+STR_0749    :Host {INT32}
+STR_0750    :Host {INT32}
+STR_0751    :Host {INT32}
+STR_0752    :Host {INT32}
+STR_0753    :Host {INT32}
+STR_0754    :Host {INT32}
+STR_0755    :Host {INT32}
+STR_0756    :Host {INT32}
+STR_0757    :Host {INT32}
+STR_0758    :Host {INT32}
+STR_0759    :Host {INT32}
+STR_0760    :Host {INT32}
+STR_0761    :Host {INT32}
+STR_0762    :Host {INT32}
+STR_0763    :Host {INT32}
+STR_0764    :Host {INT32}
+STR_0765    :Host {INT32}
+STR_0766    :Host {INT32}
+STR_0767    :Host {INT32}
+STR_0768    :Uklizeč {INT32}
+STR_0769    :Technik {INT32}
+STR_0770    :Hlídač {INT32}
+STR_0771    :Bavič {INT32}
+STR_0772    :Nepojmenovaný park{POP16}{POP16}
+STR_0773    :Nepojmenovaný park{POP16}{POP16}
+STR_0774    :Nepojmenovaný park{POP16}{POP16}
+STR_0775    :Nepojmenovaný park{POP16}{POP16}
+STR_0776    :Nepojmenovaný park{POP16}{POP16}
+STR_0777    :Nepojmenovaný park{POP16}{POP16}
+STR_0778    :Nápis
+STR_0779    :1.
+STR_0780    :2.
+STR_0781    :3.
+STR_0782    :4.
+STR_0783    :5.
+STR_0784    :6.
+STR_0785    :7.
+STR_0786    :8.
+STR_0787    :9.
+STR_0788    :10.
+STR_0789    :11.
+STR_0790    :12.
+STR_0791    :13.
+STR_0792    :14.
+STR_0793    :15.
+STR_0794    :16.
+STR_0795    :17.
+STR_0796    :18.
+STR_0797    :19.
+STR_0798    :20.
+STR_0799    :21.
+STR_0800    :22.
+STR_0801    :23.
+STR_0802    :24.
+STR_0803    :25.
+STR_0804    :26.
+STR_0805    :27.
+STR_0806    :28.
+STR_0807    :29.
+STR_0808    :30.
+STR_0809    :31.
+STR_0810    :Jan
+STR_0811    :Feb
 STR_0812    :Mar
-STR_0813    :Kwi
-STR_0814    :Maj
-STR_0815    :Cze
-STR_0816    :Lip
-STR_0817    :Sie
-STR_0818    :Wrz
-STR_0819    :Paź
-STR_0820    :Lis
-STR_0821    :Gru
-STR_0822    :Nie można otworzyć pliku danych grafiki
-STR_0823    :Plik danych grafiki nie istnieje lub jest niedostępny
+STR_0813    :Apr
+STR_0814    :May
+STR_0815    :Jun
+STR_0816    :Jul
+STR_0817    :Aug
+STR_0818    :Sep
+STR_0819    :Oct
+STR_0820    :Nov
+STR_0821    :Dec
+STR_0822    :Nedostupný grafický soubor
+STR_0823    :Chybějicí nebo nedostupný soubor
 STR_0824    :{BLACK}{CROSS}
-STR_0825    :Wybrana nazwa jest już w użyciu
-STR_0826    :Zdefiniowano za dużo nazw
-STR_0827    :Za mało pieniędzy - potrzeba {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Zamknij okno
-STR_0829    :{SMALLFONT}{BLACK}Przeciągnij tą belkę, by przesunąć okno
-STR_0830    :{SMALLFONT}{BLACK}Przybliż widok
-STR_0831    :{SMALLFONT}{BLACK}Oddal widok
-STR_0832    :{SMALLFONT}{BLACK}Obróć widok o 90{DEGREE}
-STR_0833    :{SMALLFONT}{BLACK}Pauza
-STR_0834    :{SMALLFONT}{BLACK}Menu zapisu i opcji
-# ------------------------------------------ Polish end
-STR_0835    :Game initialization failed
-STR_0836    :Unable to start game in a minimized state
-STR_0837    :Unable to initialize graphics system
+STR_0825    :Zvolené jméno je již používáno
+STR_0826    :Definováno příliš mnoho jmen
+STR_0827    :Nedostatek financí - potřeba {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}Zavřít okno
+STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
+STR_0830    :{SMALLFONT}{BLACK}Přiblížit pohled
+STR_0831    :{SMALLFONT}{BLACK}ZOddálit pohled
+STR_0832    :{SMALLFONT}{BLACK}Otočit o 90{DEGREE} po směru hodinových ručiček
+STR_0833    :{SMALLFONT}{BLACK}Pozastavit hru
+STR_0834    :{SMALLFONT}{BLACK}Disk and game options
+STR_0835    :Game initialisation failed
+STR_0836    :Nelze spustit hru minimalizovanou.
+STR_0837    :Unable to initialise graphics system
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -851,17 +849,17 @@ STR_0843    :<not used anymore>
 STR_0844    :<not used anymore>
 STR_0845    :<not used anymore>
 STR_0846    :<not used anymore>
-STR_0847    :About 'OpenRCT2'
+STR_0847    :O 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
-STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
-STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
+STR_0849    :{WINDOW_COLOUR_2}Verze 2.01.028
+STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, všechna práva vyhrazena
+STR_0851    :{WINDOW_COLOUR_2}Design a programování - Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafika - Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Zvuky a hudba - Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Další zvukové nahrávky - David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0856    :{WINDOW_COLOUR_2}Poděkování:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, a John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
 STR_0859    :{WINDOW_COLOUR_2}
 STR_0860    :{WINDOW_COLOUR_2}
@@ -881,88 +879,85 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-# ------------------------------------------ Polish start
-STR_0877    :Za nisko !
-STR_0878    :Za wysoko !
-STR_0879    :Nie można tu obniżyć terenu...
-STR_0880    :Nie można tu podnieść terenu...
-STR_0881    :Obiekt blokuje
-STR_0882    :Wczytaj grę
-STR_0883    :Zapisz grę
-STR_0884    :Wczytaj Krajobraz
-STR_0885    :Zapisz Krajobraz
-STR_0886    :Wyjdź z Gry
-STR_0887    :Wyjdź z Edytora Scenariuszy
-STR_0888    :Wyjdź z Projektanta Kolejek
-STR_0889    :Wyjdź z Menadżera Projektów Tras
-STR_0890    :SCR{COMMA16}.png
-STR_0891    :Zrzut ekranu
-STR_0892    :Zrzut ekranu zapisany jako '{STRINGID}'
-STR_0893    :Zrzut ekranu nieudany !
-# ------------------------------------------ Polish end
+STR_0877    :Příliš nízko! !
+STR_0878    :Moc vysoko! !
+STR_0879    :Tady nelze zemi snížit...
+STR_0880    :Tady nelze zemi zvíšit...
+STR_0881    :Předmět v cestě
+STR_0882    :Nahrát hru
+STR_0883    :Uložit hru
+STR_0884    :Nahrát krajinu
+STR_0885    :Uložit krajinu
+STR_0886    :Ukončit hru
+STR_0887    :Ukončit Scenario Editor
+STR_0888    :Ukončit Roller Coaster Designer
+STR_0889    :Ukončit Track Designs Manager
+STR_0890    :SCR{COMMA16}.BMP
+STR_0891    :Snímek obrazovky
+STR_0892    :Snímek obrazovky byl uložen jako '{STRINGID}'
+STR_0893    :Snímaní obrazovky selhalo !
 STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
+STR_0895    :Nelze stavět částečně pod a nad zemí
 STR_0896    :{POP16}{POP16}{STRINGID} Construction
 STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
+STR_0898    :{SMALLFONT}{BLACK}Zatáčka vlevo
+STR_0899    :{SMALLFONT}{BLACK}Zatáčka vpravo
+STR_0900    :{SMALLFONT}{BLACK}Zatáčka vlevo (malý poloměr)
+STR_0901    :{SMALLFONT}{BLACK}Zatáčka vpravo (malý poloměr)
+STR_0902    :{SMALLFONT}{BLACK}Zatáčka vlevo (velmi malý poloměr)
+STR_0903    :{SMALLFONT}{BLACK}Zatáčka vpravo (velmi malý poloměr)
+STR_0904    :{SMALLFONT}{BLACK}Zatáčka vlevo (velký poloměr)
+STR_0905    :{SMALLFONT}{BLACK}Zatáčka vpravo (velký poloměr)
+STR_0906    :{SMALLFONT}{BLACK}Rovinka
+STR_0907    :Svah
 STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
+STR_0909    :Otáčení sedadel
 STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
 STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
 STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
-STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-# ------------------------------------------ Polish start
-STR_0934    :Wejście blokuje
-STR_0935    :Wyjście blokuje
-STR_0936    :Wejście do parku blokuje
-STR_0937    :{SMALLFONT}{BLACK}Opcje widoku
-STR_0938    :{SMALLFONT}{BLACK}Zmień wysokość i kształt terenu
-STR_0939    :Widok podziemny
-STR_0940    :Ukryj powierzchnię ziemi
-STR_0941    :Ukryj pionowe ściany
-STR_0942    :Przezroczyste atrakcje
-STR_0943    :Przezroczysta sceneria
-STR_0944    :Zapisz
-STR_0945    :Nie zapisuj
-STR_0946    :Anuluj
-STR_0947    :Zapisać przed wczytaniem ?
-STR_0948    :Zapisać przed wyjściem ?
-STR_0949    :Zapisać przed wyjściem ?
-STR_0950    :Wczytaj Grę
-STR_0951    :Wyjdź z Gry
-STR_0952    :Wyjdź z Gry
-STR_0953    :Wczytaj Krajobraz
+STR_0913    :{SMALLFONT}{BLACK}Posunout na předchozí část
+STR_0914    :{SMALLFONT}{BLACK}Posunout na následující část
+STR_0915    :{SMALLFONT}{BLACK}Postavit vybranou část
+STR_0916    :{SMALLFONT}{BLACK}Odstranit vybranou část
+STR_0917    :{SMALLFONT}{BLACK}Kolmo dolů
+STR_0918    :{SMALLFONT}{BLACK}Strmý svah dolů
+STR_0919    :{SMALLFONT}{BLACK}Svah dolů
+STR_0920    :{SMALLFONT}{BLACK}Vodorovně
+STR_0921    :{SMALLFONT}{BLACK}Svah vzhůtu
+STR_0922    :{SMALLFONT}{BLACK}Prudce vzhůru
+STR_0923    :{SMALLFONT}{BLACK}Kolmo nahorů
+STR_0924    :{SMALLFONT}{BLACK}Šroubovice dolů
+STR_0925    :{SMALLFONT}{BLACK}Šroubovice vzhůru
+STR_0926    :Tohle nelze odstranit...
+STR_0927    :Tohle zde nejde postavit...
+STR_0928    :{SMALLFONT}{BLACK}Řetězový vlek, pro pohon vozů do svahu
+STR_0929    :'S' Ohyb (levý)
+STR_0930    :'S' Ohyb (pravý)
+STR_0931    :Svislá Smyčka (levá)
+STR_0932    :Svislá Smyčka (pravá)
+STR_0933    :Nejdříve zvyš nebo sniž povrch
+STR_0934    :Vstup na atrakci v cestě
+STR_0935    :Výtup z atrakce v cestě
+STR_0936    :Vchod do parku v cestě
+STR_0937    :{SMALLFONT}{BLACK}View options
+STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
+STR_0939    :POdzemní/Vnitří pohled
+STR_0940    :Remove Base Land
+STR_0941    :Remove Vertical Faces
+STR_0942    :Průhledné atrakce
+STR_0943    :Průhledná výzdoba
+STR_0944    :Uložit
+STR_0945    :Neukládat
+STR_0946    :Zrušit
+STR_0947    :Uložit před zavřením ?
+STR_0948    :Uložit před ukončením ?
+STR_0949    :Uložit před ukončením ?
+STR_0950    :Nahrát hru
+STR_0951    :Ukončit hru
+STR_0952    :Ukončit hru
+STR_0953    :Nahrát krajinu
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Ustaw kąt obrotu siedzeń w tej sekcji toru
+STR_0955    :{SMALLFONT}{BLACK}Vyberte úhel otočení sedadel pro tuto část trati
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -979,38 +974,35 @@ STR_0968    :+360{DEGREE}
 STR_0969    :+405{DEGREE}
 STR_0970    :+450{DEGREE}
 STR_0971    :+495{DEGREE}
-STR_0972    :Anuluj
+STR_0972    :Zrušit
 STR_0973    :OK
-STR_0974    :Atrakcje
-STR_0975    :Sklepy
-STR_0976    :Toalety i Punkty Informacyjne
-STR_0977    :Nowa atrakcja transportowa
-STR_0978    :Nowa łagodna atrakcja
-STR_0979    :Nowa kolejka górska
-STR_0980    :Nowa intensywna atrakcja
-STR_0981    :Nowa wodna atrakcja
-STR_0982    :Nowy sklep lub stoisko
-STR_0983    :Badania i rozwój
+STR_0974    :Atrakce
+STR_0975    :Obchody a stánky
+STR_0976    :Toalety a Informační kiosky
+STR_0977    :New Transport Rides
+STR_0978    :New Gentle Rides
+STR_0979    :New Roller Coasters
+STR_0980    :New Thrill Rides
+STR_0981    :New Water Rides
+STR_0982    :New Shops & Stalls
+STR_0983    :Research & Development
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-# ------------------------------------------ Polish end
 STR_0987    :Too many rides/attractions
 STR_0988    :Can't create new ride/attraction...
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Construction
 STR_0991    :Station platform
-# ------------------------------------------ Polish start
-STR_0992    :{SMALLFONT}{BLACK}Zniszcz całą atrakcję
-STR_0993    :Zniszcz atrakcję
-STR_0994    :Zniszcz
-STR_0995    :{WINDOW_COLOUR_1}Jesteś pewien, że chcesz zniszczyć {STRINGID}?
-STR_0996    :Widok ogólny
-STR_0997    :{SMALLFONT}{BLACK}Wybór widoku
-# ------------------------------------------ Polish end
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
+STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
+STR_0993    :Demolish ride/attraction
+STR_0994    :Demolish
+STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
+STR_0996    :Overall view
+STR_0997    :{SMALLFONT}{BLACK}View selection
+STR_0998    :Na této trati nelze postavit více nástupišť
+STR_0999    :Vyžaduje nástupiště
+STR_1000    :Trať není uzavřený okruh.
 STR_1001    :Track unsuitable for type of train
 STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
 STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
@@ -1018,15 +1010,13 @@ STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Must be closed first
 STR_1007    :Unable to create enough vehicles
-# ------------------------------------------ Polish start
-STR_1008    :{SMALLFONT}{BLACK}Otwórz, zamknij lub testuj atrakcję
-STR_1009    :{SMALLFONT}{BLACK}Otwórz / zamknij wszystkie atrakcje
-STR_1010    :{SMALLFONT}{BLACK}Otwórz / zamknij park
-STR_1011    :Zamknij wszystkie
-STR_1012    :Otwórz wszystkie
-STR_1013    :Zamknij park
-STR_1014    :Otwórz park
-# ------------------------------------------ Polish end
+STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
+STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
+STR_1010    :{SMALLFONT}{BLACK}Open or close park
+STR_1011    :Zvařít vše
+STR_1012    :Otevřít vše
+STR_1013    :Zvařít park
+STR_1014    :Otevřít park
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can't change operating mode...
@@ -1034,43 +1024,41 @@ STR_1018    :Can't make changes...
 STR_1019    :Can't make changes...
 STR_1020    :Can't make changes...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} vagon na vlak
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} vagónů na vlak
+STR_1024    :{COMMA16} vagon na vlak
+STR_1025    :{COMMA16} vagónů na vlak
+STR_1026    :Nástupiště je příliš dlouhé!
 STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
 STR_1028    :Off edge of map!
 STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
+STR_1030    :Tohle lze stavět jen pod vodou!
+STR_1031    :Tohle nejde stavět pod vodou!
+STR_1032    :Tohle jde stavět jen na hladině!
+STR_1033    :Tohle jde stavět jen nad zemí!
+STR_1034    :Tohle jde stavět jen na povrchu!
 STR_1035    :Local authority won't allow construction above tree-height!
-# ------------------------------------------ Polish start
-STR_1036    :Wczytaj grę
-STR_1037    :Wczytaj krajobraz
-STR_1038    :Przekonwertuj zapis gry do scenariusza
-STR_1039    :Dodaj nowy projekt trasy
-STR_1040    :Zapisz grę
-STR_1041    :Zapisz scenariusz
-STR_1042    :Zapisz krajobraz
-STR_1043    :Zapis gry OpenRCT2
-STR_1044    :Scenariusz OpenRCT2
-STR_1045    :Krajobrazu OpenRCT2
-STR_1046    :Projekt trasy OpenRCT2
-STR_1047    :Zapis gry nieudany!
-STR_1048    :Zapis scenariusza nieudany!
-STR_1049    :Zapis krajobrazu nieudany!
-STR_1050    :Nie udało się wczytać...{NEWLINE}Plik zawiera błędne dane!
-STR_1051    :Przezroczyste wsporniki
-STR_1052    :Przezroczyści ludzie
-STR_1053    :{SMALLFONT}{BLACK}Atrakcje w parku
-STR_1054    :{SMALLFONT}{BLACK}Nazwij atrakcję
-STR_1055    :{SMALLFONT}{BLACK}Nazwij osobę
-STR_1056    :{SMALLFONT}{BLACK}Nazwij pracownika
-# ------------------------------------------ Polish end
+STR_1036    :Nahrát hru
+STR_1037    :Nahrát krajinu
+STR_1038    :Convert saved game to scenario
+STR_1039    :Install new track design
+STR_1040    :Uložit hru
+STR_1041    :Uložit Scenario
+STR_1042    :Uložit krajinu
+STR_1043    :Uložená hra OpenRCT2
+STR_1044    :Soubor scénáře OpenRCT2
+STR_1045    :Soubor krajiny OpenRCT2
+STR_1046    :Soubor designu dráhy OpenRCT2
+STR_1047    :Uložení hry selhalo!
+STR_1048    :Scenario save failed!
+STR_1049    :Landscape save failed!
+STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
+STR_1051    :Nevyditelné podpěry
+STR_1052    :Nevyditelní lidé
+STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
+STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
+STR_1055    :{SMALLFONT}{BLACK}Name person
+STR_1056    :{SMALLFONT}{BLACK}Name staff member
 STR_1057    :Ride/attraction name
 STR_1058    :Enter new name for this ride/attraction:
 STR_1059    :Can't rename ride/attraction...
@@ -1150,122 +1138,120 @@ STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :Vehicle {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main colour
-STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
+STR_1136    :{SMALLFONT}{BLACK}Vybrat hlavní barvy
+STR_1137    :{SMALLFONT}{BLACK}Vybrat doplňkové barvy 1
+STR_1138    :{SMALLFONT}{BLACK}Vybrat doplňkové barvy 2
+STR_1139    :{SMALLFONT}{BLACK}Vybrat barvu podpěr
+STR_1140    :{SMALLFONT}{BLACK}Vybrat barevné schéma vozidel
 STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1144    :Can't build/move entrance for this ride/attraction...
 STR_1145    :Can't build/move exit for this ride/attraction...
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
-# ------------------------------------------ Polish start
-STR_1148    :25% zapełnienia
-STR_1149    :50% zapełnienia
-STR_1150    :70% zapełnienia
-STR_1151    :100% zapełnienia
-STR_1152    :dowolne zapełnienie
-STR_1153    :Znaczniki wysokości torów
-STR_1154    :Znaczniki wysokości terenu
-STR_1155    :Znaczniki wysokości chodników
+STR_1146    :Vstup ještě není postaven
+STR_1147    :Výstup ještě není postaven
+STR_1148    :Quarter load
+STR_1149    :Half load
+STR_1150    :Three-quarter load
+STR_1151    :Full load
+STR_1152    :Any load
+STR_1153    :Height Marks on Ride Tracks
+STR_1154    :Height Marks on Land
+STR_1155    :Height Marks on Paths
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1158    :Nie można tego usunąć...
-STR_1159    :{SMALLFONT}{BLACK}Buduj scenerię, ogrody i inne akcesoria
-STR_1160    :{SMALLFONT}{BLACK}Twórz i zmieniaj obszary wodne
-STR_1161    :Nie można tego tu umieścić...
+STR_1158    :Tohle nelze odstranit...
+STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
+STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
+STR_1161    :Tohle tafy nemůže být...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
-STR_1163    :{STRINGID}{NEWLINE}(Kliknij PPM by zmodyfikować)
-STR_1164    :{STRINGID}{NEWLINE}(Kliknij PPM by usunąć)
+STR_1163    :{STRINGID}{NEWLINE}(Right-Click to Modify)
+STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1166    :Nie można tu obniżyć poziomu wody...
-STR_1167    :Nie można tu podnieść poziomu wody...
-STR_1168    :Opcje
-STR_1169    :(Brak)
+STR_1166    :Tady nelze snížit hladinu vody...
+STR_1167    :Tady nelze zvýšit hladinu vody...
+STR_1168    :Nastavení
+STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Zamknięte - -
+STR_1171    :{RED}Zavřeno - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Budowa chodników
-STR_1174    :Baner blokuje
-STR_1175    :Nie można tego postawić na nierównej ścieżce
-STR_1176    :Nie można tu postawić ścieżki...
-STR_1177    :Nie można stąd usunąć ścieżki...
-STR_1178    :Nieodpowiedni kształt terenu
-STR_1179    :Ścieżka blokuje
-STR_1180    :Nie można tego budować pod wodą!
-STR_1181    :Chodniki
-STR_1182    :Typ
-STR_1183    :Kierunek
-STR_1184    :Nachylenie
-STR_1185    :{SMALLFONT}{BLACK}Kierunek
-STR_1186    :{SMALLFONT}{BLACK}W dół
-STR_1187    :{SMALLFONT}{BLACK}Poziomo
-STR_1188    :{SMALLFONT}{BLACK}W górę
-STR_1189    :{SMALLFONT}{BLACK}Postaw wybraną sekcję ścieżki
-STR_1190    :{SMALLFONT}{BLACK}Usuń poprzednią sekcję ścieżki
+STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
+STR_1174    :Banner sign in the way
+STR_1175    :Can't build this on sloped footpath
+STR_1176    :Can't build footpath here...
+STR_1177    :Can't remove footpath from here...
+STR_1178    :Land slope unsuitable
+STR_1179    :Footpath in the way
+STR_1180    :Can't build this underwater!
+STR_1181    :Cesty
+STR_1182    :Druh
+STR_1183    :Směr
+STR_1184    :Slope
+STR_1185    :{SMALLFONT}{BLACK}Směr
+STR_1186    :{SMALLFONT}{BLACK}Slope down
+STR_1187    :{SMALLFONT}{BLACK}Level
+STR_1188    :{SMALLFONT}{BLACK}Slope up
+STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
+STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
-STR_1194    :Zamknięty
-STR_1195    :Testowany
-STR_1196    :Otwarty
-STR_1197    :Zepsuty
-STR_1198    :Katastrofa!
-STR_1199    :{COMMA16} osoba korzysta
-STR_1200    :{COMMA16} osób korzysta
-STR_1201    :Kolejka pusta
-STR_1202    :1 osoba w kolejce
-STR_1203    :{COMMA16} osób w kolejce
-STR_1204    :{COMMA16} minuta czekania
-STR_1205    :{COMMA16} minut czekania
-STR_1206    :{WINDOW_COLOUR_2}Czekaj na:
-STR_1207    :{WINDOW_COLOUR_2}Wyrusz, gdy inna kolejka trafi na tą samą stację
-STR_1208    :{WINDOW_COLOUR_2}Wyrusz, gdy inna łódka trafi na tą samą stację
-STR_1209    :{SMALLFONT}{BLACK}Ustal, czy pojazdy powinny czekać na pasażerów przed wyruszeniem ze stacji
-STR_1210    :{SMALLFONT}{BLACK}Ustal, czy pojazdy powinny wyruszać ze stacj gdy tylko inny pojazd dotrze do tej samej stacji
-STR_1211    :{WINDOW_COLOUR_2}Minimalny czas oczekiwania:
-STR_1212    :{WINDOW_COLOUR_2}Maksymalny czas oczekiwania:
-STR_1213    :{SMALLFONT}{BLACK}Wybierz minimalny czas oczekiwania na stacji przed wyruszeniem
-STR_1214    :{SMALLFONT}{BLACK}Wybierz maksymalny czas oczekiwania na stacji przed wyruszeniem
-STR_1215    :{WINDOW_COLOUR_2}Synchronizuj z sąsiadującymi stacjami
-STR_1216    :{SMALLFONT}{BLACK}Wybierz, czy kolejki mają synchronizować start z innymi stacjami (dla 'wyścigów')
+STR_1194    :Zavřeno
+STR_1195    :Testovací kolo
+STR_1196    :Otevřeno
+STR_1197    :Porucha
+STR_1198    :Nehoda!
+STR_1199    :{COMMA16} person on ride
+STR_1200    :{COMMA16} people on ride
+STR_1201    :Nobody in queue line
+STR_1202    :1 person in queue line
+STR_1203    :{COMMA16} people in queue line
+STR_1204    :{COMMA16} minute queue time
+STR_1205    :{COMMA16} minutes queue time
+STR_1206    :{WINDOW_COLOUR_2}Čekat na:
+STR_1207    :{WINDOW_COLOUR_2}Vyjet když jiný vlak přijede do stanice
+STR_1208    :{WINDOW_COLOUR_2}Vyplout když jiná loď přijede do přístavu
+STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
+STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
+STR_1211    :{WINDOW_COLOUR_2}Čekat nejméně:
+STR_1212    :{WINDOW_COLOUR_2}Čekat nejdéle:
+STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
+STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
+STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
+STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
 STR_1217    :{COMMA16} sekund
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
-# ------------------------------------------ Polish end
-STR_1220    :Exit only
-STR_1221    :No entrance
-STR_1222    :No exit
+STR_1220    :Jen východ
+STR_1221    :Nemá vchod
+STR_1222    :Chybí východ
 STR_1223    :{SMALLFONT}{BLACK}Transport rides
 STR_1224    :{SMALLFONT}{BLACK}Gentle rides
 STR_1225    :{SMALLFONT}{BLACK}Roller coasters
 STR_1226    :{SMALLFONT}{BLACK}Thrill rides
 STR_1227    :{SMALLFONT}{BLACK}Water rides
 STR_1228    :{SMALLFONT}{BLACK}Shops & stalls
-STR_1229    :train
-STR_1230    :trains
-STR_1231    :Train
-STR_1232    :Trains
-STR_1233    :{COMMA16} train
-STR_1234    :{COMMA16} trains
-STR_1235    :Train {COMMA16}
-STR_1236    :boat
-STR_1237    :boats
-STR_1238    :Boat
-STR_1239    :Boats
-STR_1240    :{COMMA16} boat
-STR_1241    :{COMMA16} boats
-STR_1242    :Boat {COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
-STR_1249    :Track {COMMA16}
+STR_1229    :vlak
+STR_1230    :vlaky
+STR_1231    :Vlak
+STR_1232    :Vlaky
+STR_1233    :{COMMA16} vlak
+STR_1234    :{COMMA16} Vlaky
+STR_1235    :Vlak {COMMA16}
+STR_1236    :loď
+STR_1237    :loďe
+STR_1238    :Loď
+STR_1239    :Loďe
+STR_1240    :{COMMA16} loď
+STR_1241    :{COMMA16} loďe
+STR_1242    :Loď {COMMA16}
+STR_1243    :dráha
+STR_1244    :dráhy
+STR_1245    :Dráha
+STR_1246    :Dráhy
+STR_1247    :{COMMA16} dráha
+STR_1248    :{COMMA16} dráhy
+STR_1249    :Dráha {COMMA16}
 STR_1250    :docking platform
 STR_1251    :docking platforms
 STR_1252    :Docking platform
@@ -1301,27 +1287,27 @@ STR_1281    :Structures
 STR_1282    :{COMMA16} structure
 STR_1283    :{COMMA16} structures
 STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
-STR_1292    :cabin
-STR_1293    :cabins
-STR_1294    :Cabin
-STR_1295    :Cabins
-STR_1296    :{COMMA16} cabin
-STR_1297    :{COMMA16} cabins
-STR_1298    :Cabin {COMMA16}
-STR_1299    :wheel
-STR_1300    :wheels
-STR_1301    :Wheel
-STR_1302    :Wheels
-STR_1303    :{COMMA16} wheel
-STR_1304    :{COMMA16} wheels
-STR_1305    :Wheel {COMMA16}
+STR_1285    :loď
+STR_1286    :lodě
+STR_1287    :Loď
+STR_1288    :Lodě
+STR_1289    :{COMMA16} loď
+STR_1290    :{COMMA16} lodě
+STR_1291    :Loď {COMMA16}
+STR_1292    :kabina
+STR_1293    :kabiny
+STR_1294    :Kabina
+STR_1295    :Kabiny
+STR_1296    :{COMMA16} kabina
+STR_1297    :{COMMA16} kabin
+STR_1298    :Kabina {COMMA16}
+STR_1299    :kolo
+STR_1300    :kol
+STR_1301    :Kolo
+STR_1302    :Kol
+STR_1303    :{COMMA16} kolo
+STR_1304    :{COMMA16} kol
+STR_1305    :Kolo {COMMA16}
 STR_1306    :ring
 STR_1307    :rings
 STR_1308    :Ring
@@ -1329,13 +1315,13 @@ STR_1309    :Rings
 STR_1310    :{COMMA16} ring
 STR_1311    :{COMMA16} rings
 STR_1312    :Ring {COMMA16}
-STR_1313    :player
-STR_1314    :players
-STR_1315    :Player
-STR_1316    :Players
-STR_1317    :{COMMA16} player
-STR_1318    :{COMMA16} players
-STR_1319    :Player {COMMA16}
+STR_1313    :hráč
+STR_1314    :hráči
+STR_1315    :Hráč
+STR_1316    :Hráči
+STR_1317    :{COMMA16} hráč
+STR_1318    :{COMMA16} hráči
+STR_1319    :Hráč {COMMA16}
 STR_1320    :course
 STR_1321    :courses
 STR_1322    :Course
@@ -1355,54 +1341,54 @@ STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
 STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
 STR_1337    :{STRINGID} - Exit{POP16}{POP16}
 STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
+STR_1339    :{BLACK}V7sledky testů nejsou hotovy...
+STR_1340    :{WINDOW_COLOUR_2}Max. rychlost: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
 STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
+STR_1347    :{WINDOW_COLOUR_2}Průměrná rychlost: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
 STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
+STR_1354    :{WINDOW_COLOUR_2}Nejvyšší pád: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Pádů: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Obratů: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
+STR_1358    :{WINDOW_COLOUR_2}Celkem ve stav beztíže: {BLACK}{COMMA2DP32}sekund
 STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
 STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
 STR_1361    :Can't change speed...
 STR_1362    :Can't change launch speed...
 STR_1363    :Too high for supports!
 STR_1364    :Supports for track above can't be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
+STR_1365    :Otočka kolem trati (levá)
+STR_1366    :Otočka kolem trati (pravá)
+STR_1367    :Poloviční smyčka
+STR_1368    :Poloviční Vývrtka (levá)
+STR_1369    :Poloviční Vývrtka (pravá)
+STR_1370    :Sudový výkrut (levý)
+STR_1371    :Sudový výkrut (pravý)
 STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1373    :Velká Poloviční Vývrtka (levá)
+STR_1374    :Velká Poloviční Vývrtka (pravá)
+STR_1375    :Přechod vzhůru
+STR_1376    :Přechod dolů
+STR_1377    :Otočka kolem těla (levá)
+STR_1378    :Otočka kolem těla (pravá)
+STR_1379    :Obrat (levý)
+STR_1380    :Obrat (Pravy)
+STR_1381    :Zahnutý vlečný svah (vlevo)
+STR_1382    :Zahnutý vlečný svah (vpravo)
+STR_1383    :Čtvrt smyčky
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
+STR_1386    :Zvláštní...
 STR_1387    :Can't change land type...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
@@ -1416,81 +1402,78 @@ STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
+STR_1400    :Vchod
+STR_1401    :Východ
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
 STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
-STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
-STR_1405    :{SMALLFONT}{BLACK}Mirror image
+STR_1404    :{SMALLFONT}{BLACK}Otočit o 90{DEGREE}
+STR_1405    :{SMALLFONT}{BLACK}Zrcadlový obraz
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
 STR_1407    :{WINDOW_COLOUR_2}Build this...
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
+STR_1408    :{WINDOW_COLOUR_2}Cena: {BLACK}{CURRENCY}
 STR_1409    :Entry/Exit Platform
-STR_1410    :Vertical Tower
-# ------------------------------------------ Polish start
-STR_1411    :{STRINGID} blokuje
-STR_1412    :{WINDOW_COLOUR_3}Zbieranie danych nie jest dostępne dla tego typu atrakcji
-STR_1413    :{WINDOW_COLOUR_3}Zbieranie danych rozpocznie się gdy następny {STRINGID} opuści {STRINGID}
+STR_1410    :Svislá věž
+STR_1411    :{STRINGID} v cestě
+STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
+STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Prędkość
-STR_1416    :{WINDOW_COLOUR_2}Wysokość
-STR_1417    :{WINDOW_COLOUR_2}Pionowe G
-STR_1418    :{WINDOW_COLOUR_2}Boczne G
+STR_1415    :{WINDOW_COLOUR_2}Rychlost
+STR_1416    :{WINDOW_COLOUR_2}Výška
+STR_1417    :{WINDOW_COLOUR_2}Vert.G's
+STR_1418    :{WINDOW_COLOUR_2}Lat.G's
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Dane zebrane z {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Kolejka do atrakcji
-STR_1424    :{SMALLFONT}{BLACK}Chodnik
-STR_1425    :Chodnik
-STR_1426    :Kolejka
-STR_1427    :{WINDOW_COLOUR_2}Klienci: {BLACK}{COMMA32} na godzinę
-STR_1428    :{WINDOW_COLOUR_2}Cena wstępu:
+STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
+STR_1423    :{SMALLFONT}{BLACK}Queue line path
+STR_1424    :{SMALLFONT}{BLACK}Footpath
+STR_1425    :Footpath
+STR_1426    :Queue Line
+STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
+STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Za darmo
-STR_1431    :Spaceruje
-STR_1432    :Idzie na {STRINGID}
-STR_1433    :Czeka w kolejce na {STRINGID}
-STR_1434    :Tonie
-#On, In, At
-STR_1435    :Na {STRINGID}
-STR_1436    :W {STRINGID}
-STR_1437    :W {STRINGID}
-STR_1438    :Siedzi
-STR_1439    :(wybierz lokację)
-STR_1440    :Kosi trawę
-STR_1441    :Zamiata chodnik
-STR_1442    :Opróżnia kosz na śmieci
-STR_1443    :Podlewa kwiaty
-STR_1444    :Ogląda {STRINGID}
-STR_1445    :Ogląda budowę {STRINGID}
-STR_1446    :Ogląda dekoracje
-STR_1447    :Opuszcza park
-STR_1448    :Ogląda budowę nowej atrakcji
+STR_1430    :Free
+STR_1431    :Walking
+STR_1432    :Heading for {STRINGID}
+STR_1433    :Queuing for {STRINGID}
+STR_1434    :Drowning
+STR_1435    :On {STRINGID}
+STR_1436    :In {STRINGID}
+STR_1437    :At {STRINGID}
+STR_1438    :Sitting
+STR_1439    :(select location)
+STR_1440    :Seká trávu
+STR_1441    :Zametá cestu
+STR_1442    :Vynáši odpadkový koš
+STR_1443    :Zalévá záhon
+STR_1444    :Sleduje {STRINGID}
+STR_1445    :Sleduje vystavbu {STRINGID}
+STR_1446    :Prohlíží si prostředí
+STR_1447    :Opouští park
+STR_1448    :Sleduje výstavbu nové trti
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Imię gościa
-STR_1453    :Nowe imię dla gościa:
-STR_1454    :Nie można tak nazwać gościa...
-STR_1455    :Niewłaściwe imię dla gościa
-STR_1456    :{WINDOW_COLOUR_2}Wydał: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Pieniędzy w kieszeni: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Czas w parku: {BLACK}{REALTIME}
-# ------------------------------------------ Polish end
+STR_1452    :Jméno hosta
+STR_1453    :Vložte jméno tohoto hosta:
+STR_1454    :Nelze pojmenovat hosta...
+STR_1455    :Neplatné jméno pro hosta
+STR_1456    :{WINDOW_COLOUR_2}Utracených peněz: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Peněz v kapse: {BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}Čas strávený v parku: {BLACK}{REALTIME}
 STR_1459    :Track style
-STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
-STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
-STR_1462    :Too steep for lift hill
-STR_1463    :Guests
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
-STR_1468    :Staff
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
+STR_1460    :{SMALLFONT}{BLACK}otevřená trať ve tvaru 'U'
+STR_1461    :{SMALLFONT}{BLACK}uzavřená trať ve tvaru 'O'
+STR_1462    :Svah je pro vlečení příliš strmí
+STR_1463    :Hostů
+STR_1464    :Šroubovice vzhůru (small)
+STR_1465    :Šroubovice vzhůru (large)
+STR_1466    :Šroubovice dolů (small)
+STR_1467    :Šroubovice dolů (large)
+STR_1468    :Personál
+STR_1469    :Dráha musí začínat a končit stanicí
+STR_1470    :Stanice není dost dlouhá
+STR_1471    :{WINDOW_COLOUR_2}Rychlost:
 STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
 STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
@@ -1499,41 +1482,41 @@ STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
 STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
-STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
+STR_1480    :{SMALLFONT}{OPENQUOTES}Nemohu si dovolit {STRINGID}{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Utratil jsem všechny své peníze{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Je my špatně{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Je my hrozně špatně{ENDQUOTES}
 STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} na mě vypadá moc intenzivně{ENDQUOTES}
 STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}Jen ze sledování {STRINGID} se my dělá zle{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za vstup na {STRINGID}{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Chci jít domů{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
-STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the bathroom{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Už mám {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}Nemohu si dovolit {STRINGID}{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Nejdem hladový{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Nemám žízeň{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Pomóc! Topím se!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}Ztratil jsem se!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}Na {STRINGID} to bylo super{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}4ekám v řadě na {STRINGID} už věky{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Jsem unavený{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Mám hlad{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Jsem žíznivý{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}Potřebuji jít na toaletu{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Nemůžu najít {STRINGID}{ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
-STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
-STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
+STR_1506    :{SMALLFONT}{OPENQUOTES}Je tu hrozný nepořádek{ENDQUOTES}
+STR_1507    :{SMALLFONT}{OPENQUOTES}Nemůžu najít východ z praku{ENDQUOTES}
 STR_1508    :{SMALLFONT}{OPENQUOTES}I want to get off {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}I want to get out of {STRINGID}{ENDQUOTES}
 STR_1510    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} - It isn't safe{ENDQUOTES}
 STR_1511    :{SMALLFONT}{OPENQUOTES}This path is disgusting{ENDQUOTES}
-STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Je to tady hrozně přelidněné{ENDQUOTES}
 STR_1513    :{SMALLFONT}{OPENQUOTES}The vandalism here is really bad{ENDQUOTES}
-STR_1514    :{SMALLFONT}{OPENQUOTES}Great scenery!{ENDQUOTES}
+STR_1514    :{SMALLFONT}{OPENQUOTES}Krásné prostředí!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
 STR_1516    :{SMALLFONT}{OPENQUOTES}The jumping fountains are great{ENDQUOTES}
 STR_1517    :{SMALLFONT}{OPENQUOTES}The music is nice here{ENDQUOTES}
@@ -1571,32 +1554,32 @@ STR_1548    :
 STR_1549    :
 STR_1550    :{SMALLFONT}{OPENQUOTES}Wow!{ENDQUOTES}
 STR_1551    :{SMALLFONT}{OPENQUOTES}I have the strangest feeling someone is watching me{ENDQUOTES}
-STR_1552    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a balloon from {STRINGID}{ENDQUOTES}
-STR_1553    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cuddly toy from {STRINGID}{ENDQUOTES}
-STR_1554    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a park map from {STRINGID}{ENDQUOTES}
-STR_1555    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1556    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an umbrella from {STRINGID}{ENDQUOTES}
-STR_1557    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a drink from {STRINGID}{ENDQUOTES}
-STR_1558    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a burger from {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for chips from {STRINGID}{ENDQUOTES}
-STR_1560    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an ice cream from {STRINGID}{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for candyfloss from {STRINGID}{ENDQUOTES}
+STR_1552    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a balloon from {STRINGID}{ENDQUOTES}
+STR_1553    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a cuddly toy from {STRINGID}{ENDQUOTES}
+STR_1554    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a park map from {STRINGID}{ENDQUOTES}
+STR_1555    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za an on-ride photo from {STRINGID}{ENDQUOTES}
+STR_1556    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za an umbrella from {STRINGID}{ENDQUOTES}
+STR_1557    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a drink from {STRINGID}{ENDQUOTES}
+STR_1558    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a burger from {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za chips from {STRINGID}{ENDQUOTES}
+STR_1560    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za an ice cream from {STRINGID}{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za candyfloss from {STRINGID}{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
-STR_1565    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for pizza from {STRINGID}{ENDQUOTES}
+STR_1565    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za pizza from {STRINGID}{ENDQUOTES}
 STR_1566    :
-STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {STRINGID}{ENDQUOTES}
-STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
-STR_1569    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for tentacle from {STRINGID}{ENDQUOTES}
-STR_1570    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hat from {STRINGID}{ENDQUOTES}
-STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a toffee apple from {STRINGID}{ENDQUOTES}
-STR_1572    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a T-shirt from {STRINGID}{ENDQUOTES}
-STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a doughnut from {STRINGID}{ENDQUOTES}
-STR_1574    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for coffee from {STRINGID}{ENDQUOTES}
+STR_1567    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za popcorn from {STRINGID}{ENDQUOTES}
+STR_1568    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a hot dog from {STRINGID}{ENDQUOTES}
+STR_1569    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za tentacle from {STRINGID}{ENDQUOTES}
+STR_1570    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a hat from {STRINGID}{ENDQUOTES}
+STR_1571    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a toffee apple from {STRINGID}{ENDQUOTES}
+STR_1572    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a T-shirt from {STRINGID}{ENDQUOTES}
+STR_1573    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a doughnut from {STRINGID}{ENDQUOTES}
+STR_1574    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za coffee from {STRINGID}{ENDQUOTES}
 STR_1575    :
-STR_1576    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried chicken from {STRINGID}{ENDQUOTES}
-STR_1577    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for lemonade from {STRINGID}{ENDQUOTES}
+STR_1576    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za fried chicken from {STRINGID}{ENDQUOTES}
+STR_1577    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za lemonade from {STRINGID}{ENDQUOTES}
 STR_1578    :
 STR_1579    :
 STR_1580    :
@@ -1635,27 +1618,27 @@ STR_1612    :
 STR_1613    :
 STR_1614    :
 STR_1615    :
-STR_1616    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1617    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1618    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1619    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a pretzel from {STRINGID}{ENDQUOTES}
-STR_1620    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for hot chocolate from {STRINGID}{ENDQUOTES}
-STR_1621    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for iced tea from {STRINGID}{ENDQUOTES}
-STR_1622    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a funnel cake from {STRINGID}{ENDQUOTES}
-STR_1623    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sunglasses from {STRINGID}{ENDQUOTES}
-STR_1624    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for beef noodles from {STRINGID}{ENDQUOTES}
-STR_1625    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried rice noodles from {STRINGID}{ENDQUOTES}
-STR_1626    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for wonton soup from {STRINGID}{ENDQUOTES}
-STR_1627    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for meatball soup from {STRINGID}{ENDQUOTES}
-STR_1628    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fruit juice from {STRINGID}{ENDQUOTES}
-STR_1629    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for soybean milk from {STRINGID}{ENDQUOTES}
-STR_1630    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sujongkwa from {STRINGID}{ENDQUOTES}
-STR_1631    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a sub sandwich from {STRINGID}{ENDQUOTES}
-STR_1632    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cookie from {STRINGID}{ENDQUOTES}
+STR_1616    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za on-ride photo from {STRINGID}{ENDQUOTES}
+STR_1617    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za an on-ride photo from {STRINGID}{ENDQUOTES}
+STR_1618    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za an on-ride photo from {STRINGID}{ENDQUOTES}
+STR_1619    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a pretzel from {STRINGID}{ENDQUOTES}
+STR_1620    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za hot chocolate from {STRINGID}{ENDQUOTES}
+STR_1621    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za iced tea from {STRINGID}{ENDQUOTES}
+STR_1622    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a funnel cake from {STRINGID}{ENDQUOTES}
+STR_1623    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za sunglasses from {STRINGID}{ENDQUOTES}
+STR_1624    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za beef noodles from {STRINGID}{ENDQUOTES}
+STR_1625    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za fried rice noodles from {STRINGID}{ENDQUOTES}
+STR_1626    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za wonton soup from {STRINGID}{ENDQUOTES}
+STR_1627    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za for meatball soup from {STRINGID}{ENDQUOTES}
+STR_1628    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za fruit juice from {STRINGID}{ENDQUOTES}
+STR_1629    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za soybean milk from {STRINGID}{ENDQUOTES}
+STR_1630    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za for sujongkwa from {STRINGID}{ENDQUOTES}
+STR_1631    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a sub sandwich from {STRINGID}{ENDQUOTES}
+STR_1632    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a cookie from {STRINGID}{ENDQUOTES}
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a roast sausage from {STRINGID}{ENDQUOTES}
+STR_1636    :{SMALLFONT}{OPENQUOTES}Nezaplatím tak moc za a roast sausage from {STRINGID}{ENDQUOTES}
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -1667,39 +1650,37 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}{OPENQUOTES}Help! Put me down!{ENDQUOTES}
-STR_1649    :{SMALLFONT}{OPENQUOTES}I'm running out of cash!{ENDQUOTES}
+STR_1648    :{SMALLFONT}{OPENQUOTES}Pomóc! Polož mě dolů!{ENDQUOTES}
+STR_1649    :{SMALLFONT}{OPENQUOTES}Dochází my hotovost!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
 STR_1651    :{SMALLFONT}{OPENQUOTES}Nice ride! But not as good as the Phoenix...{ENDQUOTES}
 STR_1652    :{SMALLFONT}{OPENQUOTES}I'm so excited - It's an Intamin ride!{ENDQUOTES}
 STR_1653    :{SMALLFONT}{OPENQUOTES}...and here we are on {STRINGID}!{ENDQUOTES}
-# ------------------------------------------ Polish start
-STR_1654    :{WINDOW_COLOUR_2}Ostatnie myśli:
-STR_1655    :{SMALLFONT}{BLACK}Buduj ścieżki na ziemi
-STR_1656    :{SMALLFONT}{BLACK}Buduj ścieżki w powietrzu lub pod ziemią
-STR_1657    :{WINDOW_COLOUR_2}Preferowana
-STR_1658    :{WINDOW_COLOUR_2}intensywność: {BLACK}poniżej {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}intensywność: {BLACK}między {COMMA16} a {COMMA16}
-STR_1660    :{WINDOW_COLOUR_2}intensywność: {BLACK}powyżej {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Odporność na mdłości: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Szczęście:
-STR_1663    :{WINDOW_COLOUR_2}Mdłości:
-STR_1664    :{WINDOW_COLOUR_2}Energia:
-STR_1665    :{WINDOW_COLOUR_2}Głód:
-STR_1666    :{WINDOW_COLOUR_2}Pragnienie:
-STR_1667    :{WINDOW_COLOUR_2}Pęcherz:
-# ------------------------------------------ Polish end
-STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
-STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
-STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
+STR_1654    :{WINDOW_COLOUR_2}Recent thoughts:
+STR_1655    :{SMALLFONT}{BLACK}Construct footpath on land
+STR_1656    :{SMALLFONT}{BLACK}Construct bridge or tunnel footpath
+STR_1657    :{WINDOW_COLOUR_2}Preferred ride
+STR_1658    :{WINDOW_COLOUR_2}intenzita: {BLACK}méně než {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}intenzita: {BLACK}mezi {COMMA16} a {COMMA16}
+STR_1660    :{WINDOW_COLOUR_2}intenzita: {BLACK}víc než {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Odolnost nevolnosti: {BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}Nálada:
+STR_1663    :{WINDOW_COLOUR_2}Nevolnost:
+STR_1664    :{WINDOW_COLOUR_2}Energie:
+STR_1665    :{WINDOW_COLOUR_2}Hlad:
+STR_1666    :{WINDOW_COLOUR_2}Žízeň:
+STR_1667    :{WINDOW_COLOUR_2}Toalety:
+STR_1668    :{WINDOW_COLOUR_2}Uspokojení: {BLACK}neznámé
+STR_1669    :{WINDOW_COLOUR_2}Uspokojení: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Hostů celkem: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Výdělek celkem: {BLACK}{CURRENCY2DP}
 STR_1672    :Brakes
 STR_1673    :Spinning Control Toggle Track
 STR_1674    :Brake speed
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
-STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
-STR_1678    :{WINDOW_COLOUR_2}Popularity: {BLACK}{COMMA16}%
+STR_1677    :{WINDOW_COLOUR_2}Popularita: {BLACK}Neznámá
+STR_1678    :{WINDOW_COLOUR_2}Popularita: {BLACK}{COMMA16}%
 STR_1679    :Helix up (left)
 STR_1680    :Helix up (right)
 STR_1681    :Helix down (left)
@@ -1737,22 +1718,20 @@ STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
-# ------------------------------------------ Polish start
-STR_1716    :Niewłaściwa nazwa dla parku!
-STR_1717    :Nie można zmienić nazwy parku...
-STR_1718    :Nazwa parku
-STR_1719    :Podaj nową nazwę parku
-STR_1720    :{SMALLFONT}{BLACK}Nazwij park
-STR_1721    :Park zamknięty
-STR_1722    :Park otwarty
-STR_1723    :Nie można otworzyć parku...
-STR_1724    :Nie można zamknąć parku...
-STR_1725    :Nie można kupić ziemi...
-STR_1726    :Teren nie jest na sprzedaż!
-STR_1727    :Prawa do budowy nie są na sprzedaż!
-STR_1728    :Nie można tu kupić praw do budowy...
-STR_1729    :Teren nie należy do parku!
-# ------------------------------------------ Polish end
+STR_1716    :Invalid name for park
+STR_1717    :Can't rename park...
+STR_1718    :Park Name
+STR_1719    :Enter name for park:
+STR_1720    :{SMALLFONT}{BLACK}Name park
+STR_1721    :Park closed
+STR_1722    :Park open
+STR_1723    :Can't open park...
+STR_1724    :Can't close park...
+STR_1725    :Can't buy land...
+STR_1726    :Land not for sale!
+STR_1727    :Construction rights not for sale!
+STR_1728    :Can't buy construction rights here...
+STR_1729    :Land not owned by park!
 STR_1730    :{RED}Closed - - 
 STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Build
@@ -1849,51 +1828,48 @@ STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
 STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this ride/attraction
 STR_1824    :{SMALLFONT}{BLACK}Show guests on this ride/attraction
 STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this ride/attraction
-# ------------------------------------------ Polish start
-STR_1826    :Stan
-STR_1827    :Popularność
-STR_1828    :Satysfakcja
-STR_1829    :Zysk
-STR_1830    :Długość kolejki
-STR_1831    :Czas w kolejce
-STR_1832    :Niezawodność
-STR_1833    :Przestoje
-STR_1834    :Ulubieniec gości
-STR_1835    :Popularność: Nieznana
-STR_1836    :Popularność: {COMMA16}%
-STR_1837    :Satysfakcja: Nieznana
-STR_1838    :Satysfakcja: {COMMA16}%
-STR_1839    :Niezawodność: {COMMA16}%
-STR_1840    :Przestoje w pracy: {COMMA16}%
-STR_1841    :Zysk: {CURRENCY} per hour
-STR_1842    :Ulubiony dla: {COMMA16} gościa
-STR_1843    :Ulubiony dla: {COMMA16} gości
-STR_1844    :{SMALLFONT}{BLACK}Wybierz rodzaj informacji do pokazania
+STR_1826    :Stav
+STR_1827    :Popularita
+STR_1828    :Spokojenost
+STR_1829    :Výdělečnost
+STR_1830    :Délka řady
+STR_1831    :Doba čekání
+STR_1832    :Reliability
+STR_1833    :Přerušní provozu
+STR_1834    :Guests favourite
+STR_1835    :Popularita: Neznámá
+STR_1836    :Popularita: {COMMA16}%
+STR_1837    :Spokojenost: Neznámá
+STR_1838    :Spokojenost: {COMMA16}%
+STR_1839    :Reliability: {COMMA16}%
+STR_1840    :Přerušní provozu: {COMMA16}%
+STR_1841    :Výdělečnost: {CURRENCY2DP} per hour
+STR_1842    :Favourite of: {COMMA16} guest
+STR_1843    :Favourite of: {COMMA16} guests
+STR_1844    :{SMALLFONT}{BLACK}Select information type to show in ride/attraction list
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA16} gości
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} gości
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} gości
-STR_1849    :{WINDOW_COLOUR_2}Graj muzykę
-STR_1850    :{SMALLFONT}{BLACK}Wybierz, czy w tej atrakcji może grać muzyka
-STR_1851    :{WINDOW_COLOUR_2}Koszty utrzymania: {BLACK}{CURRENCY2DP} na godzinę
-STR_1852    :{WINDOW_COLOUR_2}Koszty utrzymania: {BLACK}Nieznane
-STR_1853    :{WINDOW_COLOUR_2}Zbudowany: {BLACK}W tym roku
-STR_1854    :{WINDOW_COLOUR_2}Zbudowany: {BLACK}W zeszłym roku
-STR_1855    :{WINDOW_COLOUR_2}Zbudowany: {BLACK}{COMMA16} lat temu
-STR_1856    :{WINDOW_COLOUR_2}Zysk na sztuce: {BLACK}{CURRENCY2DP}
-STR_1857    :{WINDOW_COLOUR_2}Strata na sztuce: {BLACK}{CURRENCY2DP}
-# could be "pensja" but I'm not sure if it's used outside of staff window
-STR_1858    :{WINDOW_COLOUR_2}Koszt: {BLACK}{CURRENCY} miesięcznie
-STR_1859    :dozorcy
-STR_1860    :mechanicy
-STR_1861    :strażnicy
-STR_1862    :klauni
-STR_1863    :dozorca
-STR_1864    :mechanik
-STR_1865    :strażnik
-STR_1866    :klaun
+STR_1846    :{COMMA16} guests
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guests
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guests
+STR_1849    :{WINDOW_COLOUR_2}Play music
+STR_1850    :{SMALLFONT}{BLACK}Vyber jaká hudba se bude hrát
+STR_1851    :{WINDOW_COLOUR_2}Cena provozu: {BLACK}{CURRENCY2DP} za hodinu
+STR_1852    :{WINDOW_COLOUR_2}Cena provozu: {BLACK}Unknown
+STR_1853    :{WINDOW_COLOUR_2}Postaveno: {BLACK}Letos
+STR_1854    :{WINDOW_COLOUR_2}Postaveno: {BLACK}Minulí rok
+STR_1855    :{WINDOW_COLOUR_2}Postaveno: {BLACK}Před {COMMA16} lety
+STR_1856    :{WINDOW_COLOUR_2}Zisk za prodaný předmět: {BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}Ztráta na prodaný předmět: {BLACK}{CURRENCY2DP}
+STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
+STR_1859    :Uklízeč
+STR_1860    :Technik
+STR_1861    :Hlídač
+STR_1862    :Bavič
+STR_1863    :Uklízeč
+STR_1864    :Technik
+STR_1865    :Hlídač
+STR_1866    :Bavič
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
-# ------------------------------------------ Polish end
 STR_1868    :Can't change number of rotations...
 STR_1869    :{WINDOW_COLOUR_2}Number of rotations:
 STR_1870    :{SMALLFONT}{BLACK}Number of complete rotations
@@ -1923,38 +1899,36 @@ STR_1891    :No {STRINGID} in park yet!
 STR_1892    :<not used anymore>
 STR_1893    :<not used anymore>
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
-STR_1895    :{SMALLFONT}{BLACK}Build new ride/attraction
-# ------------------------------------------ Polish start
-STR_1896    :{WINDOW_COLOUR_2}Przychody/wydatki
-STR_1897    :{WINDOW_COLOUR_2}Budowa atrakcji
-STR_1898    :{WINDOW_COLOUR_2}Utrzymanie atrakcji
-STR_1899    :{WINDOW_COLOUR_2}Kupno ziemi
-STR_1900    :{WINDOW_COLOUR_2}Kształtowanie terenu
-STR_1901    :{WINDOW_COLOUR_2}Bilety wstępu do parku
-STR_1902    :{WINDOW_COLOUR_2}Bilety na atrakcje
-STR_1903    :{WINDOW_COLOUR_2}Zyski sklepów
-STR_1904    :{WINDOW_COLOUR_2}Uzupełnianie sklepów
-STR_1905    :{WINDOW_COLOUR_2}Zyski z żywności
-STR_1906    :{WINDOW_COLOUR_2}Zakup żywności
-STR_1907    :{WINDOW_COLOUR_2}Pensje
+STR_1895    :{SMALLFONT}{BLACK}Postavit novou atrakci
+STR_1896    :{WINDOW_COLOUR_2}Expenditure/Income
+STR_1897    :{WINDOW_COLOUR_2}Ride construction
+STR_1898    :{WINDOW_COLOUR_2}Ride running costs
+STR_1899    :{WINDOW_COLOUR_2}Land purchase
+STR_1900    :{WINDOW_COLOUR_2}Landscaping
+STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
+STR_1902    :{WINDOW_COLOUR_2}Ride tickets
+STR_1903    :{WINDOW_COLOUR_2}Shop sales
+STR_1904    :{WINDOW_COLOUR_2}Shop stock
+STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
+STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
+STR_1907    :{WINDOW_COLOUR_2}Staff wages
 STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}Badania
-STR_1910    :{WINDOW_COLOUR_2}Odsetki
-STR_1911    :{BLACK} odsetki: {COMMA16}% rocznie
+STR_1909    :{WINDOW_COLOUR_2}Research
+STR_1910    :{WINDOW_COLOUR_2}Loan interest
+STR_1911    :{BLACK} at {COMMA16}% per year
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
-STR_1916    :{WINDOW_COLOUR_2}Pożyczka:
+STR_1916    :{WINDOW_COLOUR_2}Loan:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
-STR_1918    :Nie można pożyczyć więcej pieniędzy!
-STR_1919    :Za mało pieniędzy!
-STR_1920    :Nie można spłacić pożyczki!
-STR_1921    :{SMALLFONT}{BLACK}Nowa gra
-STR_1922    :{SMALLFONT}{BLACK}Kontynuuj zapisaną grę
-STR_1923    :{SMALLFONT}{BLACK}Samouczek
-STR_1924    :{SMALLFONT}{BLACK}Wyjdź
-# ------------------------------------------ Polish end
+STR_1918    :Can't borrow any more money!
+STR_1919    :Not enough cash available!
+STR_1920    :Can't pay back loan!
+STR_1921    :{SMALLFONT}{BLACK}Start a new game
+STR_1922    :{SMALLFONT}{BLACK}Continue playing a saved game
+STR_1923    :{SMALLFONT}{BLACK}Show tutorial
+STR_1924    :{SMALLFONT}{BLACK}Exit
 STR_1925    :Can't place person here...
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} has broken down
@@ -2018,37 +1992,37 @@ STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
 STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
-STR_1989    :Cuddly Toy
-STR_1990    :Park Map
-STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
+STR_1988    :Balónek
+STR_1989    :Plyšová Hračka
+STR_1990    :Mapa
+STR_1991    :Fotka z atrakce
+STR_1992    :Deštník
+STR_1993    :Pití
 STR_1994    :Burger
-STR_1995    :Chips
-STR_1996    :Ice Cream
-STR_1997    :Candyfloss
-STR_1998    :Empty Can
-STR_1999    :Rubbish
-STR_2000    :Empty Burger Box
+STR_1995    :Lupínky
+STR_1996    :Zmrzlina
+STR_1997    :Cukrová vata
+STR_1998    :Prázdná plechovka
+STR_1999    :Odpadky
+STR_2000    :Prázdná obal od burgeru
 STR_2001    :Pizza
-STR_2002    :Voucher
+STR_2002    :Poukaz
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Tentacle
-STR_2006    :Hat
-STR_2007    :Toffee Apple
-STR_2008    :T-Shirt
-STR_2009    :Doughnut
-STR_2010    :Coffee
-STR_2011    :Empty Cup
-STR_2012    :Fried Chicken
-STR_2013    :Lemonade
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
-STR_2016    :Balloons
-STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
+STR_2006    :Čepice
+STR_2007    :Karamelové jablko
+STR_2008    :Tričko
+STR_2009    :Kobliha
+STR_2010    :Káva
+STR_2011    :Prázdná kelímek
+STR_2012    :Smažené Kuře
+STR_2013    :Limonáda
+STR_2014    :Prázdná krabička
+STR_2015    :Prázdná láhev
+STR_2016    :Balónky
+STR_2017    :Plyšové hračky
+STR_2018    :Mapy
 STR_2019    :On-Ride Photos
 STR_2020    :Umbrellas
 STR_2021    :Drinks
@@ -2266,79 +2240,75 @@ STR_2232    :Cable lift hill
 STR_2233    :{SMALLFONT}{BLACK}Park information
 STR_2234    :Recent Messages
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
-# ------------------------------------------ Polish start
-STR_2236    :Stycznia
-STR_2237    :Lutego
-STR_2238    :Marca
-STR_2239    :Kwietnia
-STR_2240    :Maja
-STR_2241    :Czerwca
-STR_2242    :Lipca
-STR_2243    :Sierpnia
-STR_2244    :Września
-STR_2245    :Października
-STR_2246    :Listopada
-STR_2247    :Grudnia
-STR_2248    :Nie można zburzyć atrakcji...
-STR_2249    :{BABYBLUE}Nowa atrakcja dostępna:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}Nowa sceneria dostępna:{NEWLINE}{STRINGID}
-STR_2251    :Można budować tylko na chodnikach!
-STR_2252    :Można budować tylko w poprzek chodników!
-STR_2253    :Transport
-STR_2254    :Łagodne atrakcje
-STR_2255    :Kolejki górskie
-STR_2256    :Intensywne atrakcje
-STR_2257    :Wodne atrakcje
-STR_2258    :Sklepy i stoiska
-STR_2259    :Scenerie i dekoracje
-STR_2260    :Bez budżetu
-STR_2261    :Minimalny
-STR_2262    :Normalny
-STR_2263    :Maksymalny
-STR_2264    :Budżet na badania
-STR_2265    :{WINDOW_COLOUR_2}Koszt: {BLACK}{CURRENCY} na miesiąc
-STR_2266    :Priorytety badawcze
-STR_2267    :Obecnie badany
-STR_2268    :Ostatnie odkrycie
-STR_2269    :{WINDOW_COLOUR_2}Typ: {BLACK}{STRINGID}
-STR_2270    :{WINDOW_COLOUR_2}Stan prac: {BLACK}{STRINGID}
-STR_2271    :{WINDOW_COLOUR_2}Spodziewane zakończenie: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Atrakcja:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Sceneria:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :{SMALLFONT}{BLACK}Pokaż szczegóły tego odkrycia
-STR_2275    :{SMALLFONT}{BLACK}Pokaż opcje i budżet badań
-STR_2276    :{SMALLFONT}{BLACK}Pokaż status badań
-STR_2277    :Nieznany
-STR_2278    :Transport
-STR_2279    :Łagodne atrakcje
-STR_2280    :Kolejki górskie
-STR_2281    :Intensywne atrakcje
-STR_2282    :Wodne atrakcje
-STR_2283    :Sklepy i stoiska
-STR_2284    :Scenerie i dekoracje
-STR_2285    :Wstępne badania
-STR_2286    :Projektowanie
-STR_2287    :Wykańczanie projektu
-STR_2288    :Nieznane
+STR_2236    :Ledna
+STR_2237    :Únorna
+STR_2238    :Březena
+STR_2239    :Dubna
+STR_2240    :Května
+STR_2241    :Června
+STR_2242    :Červenece
+STR_2243    :Srpena
+STR_2244    :Září
+STR_2245    :Říjena
+STR_2246    :Listopadu
+STR_2247    :Prosinece
+STR_2248    :Can't demolish ride/attraction...
+STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}New scenery/themeing now available:{NEWLINE}{STRINGID}
+STR_2251    :Can only be built on paths!
+STR_2252    :Can only be built across paths!
+STR_2253    :Transport Rides
+STR_2254    :Gentle Rides
+STR_2255    :Roller Coasters
+STR_2256    :Thrill Rides
+STR_2257    :Water Rides
+STR_2258    :Shops & Stalls
+STR_2259    :Scenery & Themeing
+STR_2260    :No funding
+STR_2261    :Minimum funding
+STR_2262    :Normal funding
+STR_2263    :Maximum funding
+STR_2264    :Research funding
+STR_2265    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY} per month
+STR_2266    :Research priorities
+STR_2267    :Currently in development
+STR_2268    :Last development
+STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Scenery/themeing:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :{SMALLFONT}{BLACK}Show details of this invention or development
+STR_2275    :{SMALLFONT}{BLACK}Show funding and options for research & development
+STR_2276    :{SMALLFONT}{BLACK}Show research & development status
+STR_2277    :Unknown
+STR_2278    :Transport Ride
+STR_2279    :Gentle Ride
+STR_2280    :Roller Coaster
+STR_2281    :Thrill Ride
+STR_2282    :Water Ride
+STR_2283    :Shop/Stall
+STR_2284    :Scenery/Themeing
+STR_2285    :Initial research
+STR_2286    :Designing
+STR_2287    :Completing design
+STR_2288    :Unknown
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
-STR_2291    :Wybierz scenariusz dla nowej gry
-STR_2292    :{WINDOW_COLOUR_2}Odwiedzone atrakcje:
-STR_2293    :{BLACK} Nic
-# ------------------------------------------ Polish end
+STR_2291    :Select scenario for new game
+STR_2292    :{WINDOW_COLOUR_2}Rides been on:
+STR_2293    :{BLACK} Nothing
 STR_2294    :{SMALLFONT}{BLACK}Change base land style
 STR_2295    :{SMALLFONT}{BLACK}Change vertical edges of land
-# ------------------------------------------ Polish start
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na wejście do parku
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} atrakcji
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} atrakcjach
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} posiłku
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} posiłkach
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} napoju
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} napojach
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiątce
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiątkach
-# ------------------------------------------ Polish end
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} item of food
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
 STR_2305    :Track design files
 STR_2306    :Save track design
 STR_2307    :Select {STRINGID} design
@@ -2351,146 +2321,141 @@ STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
-# ------------------------------------------ Polish start
-STR_2317    :{WINDOW_COLOUR_2}Jakość dźwięku:
-STR_2318    :Niska
-STR_2319    :Średnia
-STR_2320    :Wysoka
-STR_2321    :{WINDOW_COLOUR_2}Liczba atrakcji: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Liczba pracowników: {BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}Rozmiar parku: {BLACK}{COMMA32}m{SQUARED}
-STR_2324    :{WINDOW_COLOUR_2}Rozmiar parku: {BLACK}{COMMA32} stóp kw.
-STR_2325    :{SMALLFONT}{BLACK}Kup ziemię by powiększyć park
-STR_2326    :{SMALLFONT}{BLACK}Kup prawa do budowy by móc budować nad lub pod ziemią poza parkiem
-STR_2327    :Opcje
-STR_2328    :{WINDOW_COLOUR_2}Waluta:
-STR_2329    :{WINDOW_COLOUR_2}Odległość i prędkość:
-STR_2330    :{WINDOW_COLOUR_2}Temperatura:
-STR_2331    :{WINDOW_COLOUR_2}Wysokość:
-STR_2332    :Jednostki
-STR_2333    :Dźwięk
-STR_2334    :Funty ({POUND})
+STR_2317    :<not used anymore>
+STR_2318    :<not used anymore>
+STR_2319    :<not used anymore>
+STR_2320    :<not used anymore>
+STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
+STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
+STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
+STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
+STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
+STR_2327    :Options
+STR_2328    :{WINDOW_COLOUR_2}Měna:
+STR_2329    :{WINDOW_COLOUR_2}Délka a rychlost:
+STR_2330    :{WINDOW_COLOUR_2}Teplota:
+STR_2331    :{WINDOW_COLOUR_2}Výškové značky:
+STR_2332    :Jednotky
+STR_2333    :Sound
+STR_2334    :Libry ({POUND})
 STR_2335    :Dolary ($)
-STR_2336    :Franki (F)
-STR_2337    :Marki (DM)
-STR_2338    :Jeny ({YEN})
-STR_2339    :Pesety (Pts)
-STR_2340    :Liry (L)
+STR_2336    :Franky (F)
+STR_2337    :Marka (DM)
+STR_2338    :Yeny ({YEN})
+STR_2339    :Pesos (Pts)
+STR_2340    :Lira (L)
 STR_2341    :Guldeny (fl.)
-STR_2342    :Korony (kr)
-STR_2343    :Euro ({EURO})
-STR_2344    :Imperialne
-STR_2345    :Metryczne
-STR_2346    :Grafika
-STR_2347    :{RED}{STRINGID} utonął!
-STR_2348    :{SMALLFONT}{BLACK}Pokaż statystyki tego pracownika
-STR_2349    :{WINDOW_COLOUR_2}Pensja: {BLACK}{CURRENCY} miesięcznie
-STR_2350    :{WINDOW_COLOUR_2}Zatrudniony: {BLACK}{MONTHYEAR}
-STR_2351    :{WINDOW_COLOUR_2}Skoszone trawniki: {BLACK}{COMMA16}
-STR_2352    :{WINDOW_COLOUR_2}Podlane ogrody: {BLACK}{COMMA16}
-STR_2353    :{WINDOW_COLOUR_2}Sprzątnięte śmieci: {BLACK}{COMMA16}
-STR_2354    :{WINDOW_COLOUR_2}Opróżnione kosze: {BLACK}{COMMA16}
-STR_2355    :{WINDOW_COLOUR_2}Naprawione atrakcje: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}Skontrolowane atrakcje: {BLACK}{COMMA16}
-STR_2357    :Dom
-STR_2358    :Jednostki
-STR_2359    :Prawdziwe wartości
-STR_2360    :{WINDOW_COLOUR_2}Rozdzielczość:
-STR_2361    :Wygładzanie terenu
-STR_2362    :{SMALLFONT}{BLACK}Włącza wyświetlanie krawędzi elementów terenu
-STR_2363    :Siatka terenu
-STR_2364    :{SMALLFONT}{BLACK}Zawsze wyświetlaj siatkę terenu
-STR_2365    :Bank nie zgadza się na zwiększenie pożyczki!
-STR_2366    :Celcjusz ({DEGREE}C)
+STR_2342    :Koruny (Kč)
+STR_2343    :Euroa ({EURO})
+STR_2344    :Imperiální
+STR_2345    :Metrické
+STR_2346    :Display
+STR_2347    :{RED}{STRINGID} has drowned!
+STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
+STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
+STR_2350    :{WINDOW_COLOUR_2}Employed: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Lawns mown: {BLACK}{COMMA16}
+STR_2352    :{WINDOW_COLOUR_2}Gardens watered: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA16}
+STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
+STR_2357    :House
+STR_2358    :Units
+STR_2359    :Real Values
+STR_2360    :{WINDOW_COLOUR_2}Display Resolution:
+STR_2361    :Landscape Smoothing
+STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
+STR_2363    :Gridlines on Landscape
+STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
+STR_2365    :The bank refuses to increase your loan!
+STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit ({DEGREE}F)
-STR_2368    :Brak
-STR_2369    :Niskie
-STR_2370    :Średnie
-STR_2371    :Wysokie
-STR_2372    :Niskie
-STR_2373    :Średnie
-STR_2374    :Wysokie
-STR_2375    :Bardzo wysokie
-STR_2376    :Ekstremalne
-STR_2377    :Ultra-ekstremalne
-STR_2378    :{SMALLFONT}{BLACK}Zmniejsz zasięg zmian
-STR_2379    :{SMALLFONT}{BLACK}Zwiększ zasięg zmian
-STR_2380    :{SMALLFONT}{BLACK}Zmniejsz zasięg zmian
-STR_2381    :{SMALLFONT}{BLACK}Zwiększ zasięg zmian
-STR_2382    :Teren
-STR_2383    :Woda
-STR_2384    :{WINDOW_COLOUR_2}Twój cel:
-STR_2385    :{BLACK}Brak
-# ------------------------------------------ Polish end
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
+STR_2368    :None
+STR_2369    :Low
+STR_2370    :Average
+STR_2371    :High
+STR_2372    :Low
+STR_2373    :Medium
+STR_2374    :High
+STR_2375    :Very high
+STR_2376    :Extreme
+STR_2377    :Ultra-Extreme
+STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
+STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
+STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
+STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
+STR_2382    :Land
+STR_2383    :Water
+STR_2384    :{WINDOW_COLOUR_2}Tvůj úkol:
+STR_2385    :{BLACK}žádný
+STR_2386    :{BLACK}Mít v parku alespoň {COMMA16} hostů na konci {MONTHYEAR}, s hodnocením parku alespoň 600
+STR_2387    :{BLACK}Dosáhnout hodnoty parku alespoň {POP16}{POP16}{CURRENCY} na konci {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2388    :{BLACK}Bav se!
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
+STR_2390    :{BLACK}Mýt v parku 10 druhů kolotoču v provozu, každy s hodnotou zábavnosti alespoň 6.00
+STR_2391    :{BLACK}Mít v parku alespoň {COMMA16} hostů a zároveň nesmíš nikdy nechat hodnocení parku spadnout pod 700!
+STR_2392    :{BLACK}Dosáhnout měsíčního příjmu z lístků na atrakce alespoň {POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}{BLACK}Mýt v parku 10 druhů kolotoču v provozu, každy s hodnotou zábavnosti alespoň 7.00 a délkou alespoň {LENGHT}
 STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
+STR_2395    :{BLACK}Vrátit půjčku a dosáhnout hodnoty parku alspoň {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 roller coasters of a given length
-STR_2406    :Finish building 5 roller coasters
+STR_2397    :Nic
+STR_2398    :Počet hostů v daný čas
+STR_2399    :Hodnotu praku v dané datum
+STR_2400    :Volná zábava
+STR_2401    :Postav nejlepší atrakci co dokážeš
+STR_2402    :Postavit 10 kolotočů
+STR_2403    :Počet hostů v parku
+STR_2404    :Měsíční příjem z
+STR_2405    :Postavit 10 drah zadané délky
+STR_2406    :Dokončit stavbu 5 kolotočů
 STR_2407    :Repay loan and achieve a given park value
 STR_2408    :Monthly profit from food/merchandise
-# ------------------------------------------ Polish start
-STR_2409    :{WINDOW_COLOUR_2}Trwające kampanie marketingowe
-STR_2410    :{BLACK}Brak
-STR_2411    :{WINDOW_COLOUR_2}Dostępne kampanie marketingowe
-STR_2412    :{SMALLFONT}{BLACK}Rozpocznij tą kampanię
-STR_2413    :{BLACK}({CURRENCY2DP} tygodniowo)
-STR_2414    :(Nie wybrano)
-STR_2415    :{WINDOW_COLOUR_2}Atrakcja:
-STR_2416    :{WINDOW_COLOUR_2}Przedmiot:
-STR_2417    :{WINDOW_COLOUR_2}Czas trwania:
-# I think they are only used in "Voucher for ___" strings, so lower case fits here better
-STR_2418    :darmowe wejście do {STRINGID}
-STR_2419    :darmową przejażdżkę {STRINGID}
-STR_2420    :wejście do {STRINGID} za połowę ceny
-STR_2421    :darmowe {STRINGID}
-STR_2422    :Kampania reklamowa dla {STRINGID}
-STR_2423    :Kampania reklamowa dla {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Kupony na darmowe wejście do parku
-STR_2425    :{WINDOW_COLOUR_2}Kupony na darmową przejażdżkę wybraną atrakcję
-STR_2426    :{WINDOW_COLOUR_2}Kupony na wejście do parku za połowę ceny
-STR_2427    :{WINDOW_COLOUR_2}Kupony na darmowe jedzenie lub picie
-STR_2428    :{WINDOW_COLOUR_2}Kampania reklamująca park
-STR_2429    :{WINDOW_COLOUR_2}Kampania reklamująca wybraną przejażdżkę
-STR_2430    :{BLACK}Kupony na darmowe wejście do {STRINGID}
-STR_2431    :{BLACK}Kupony na darmową przejażdżkę {STRINGID}
-STR_2432    :{BLACK}Kupony na wejście do {STRINGID} za połowę ceny
-STR_2433    :{BLACK}Kupony na darmowe {STRINGID}
-STR_2434    :{BLACK}Kampania reklamowa dla {STRINGID}
-STR_2435    :{BLACK}Kampania reklamowa dla {STRINGID}
-STR_2436    :1 tydzień
+STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
+STR_2410    :{BLACK}None
+STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
+STR_2412    :{SMALLFONT}{BLACK}Start this marketing campaign
+STR_2413    :{BLACK}({CURRENCY2DP} per week)
+STR_2414    :(Not Selected)
+STR_2415    :{WINDOW_COLOUR_2}Ride:
+STR_2416    :{WINDOW_COLOUR_2}Item:
+STR_2417    :{WINDOW_COLOUR_2}Length of time:
+STR_2418    :Free entry to {STRINGID}
+STR_2419    :Free ride on {STRINGID}
+STR_2420    :Half-price entry to {STRINGID}
+STR_2421    :Free {STRINGID}
+STR_2422    :Advertising campaign for {STRINGID}
+STR_2423    :Advertising campaign for {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
+STR_2425    :{WINDOW_COLOUR_2}Vouchers for free rides on a particular ride
+STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
+STR_2427    :{WINDOW_COLOUR_2}Vouchers for free food or drink
+STR_2428    :{WINDOW_COLOUR_2}Advertising campaign for the park
+STR_2429    :{WINDOW_COLOUR_2}Advertising campaign for a particular ride
+STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
+STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
+STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
+STR_2433    :{BLACK}Vouchers for free {STRINGID}
+STR_2434    :{BLACK}Advertising campaign for {STRINGID}
+STR_2435    :{BLACK}Advertising campaign for {STRINGID}
+STR_2436    :1 week
 STR_2437    :<not used anymore>
 STR_2438    :<not used anymore>
 STR_2439    :<not used anymore>
 STR_2440    :<not used anymore>
 STR_2441    :<not used anymore>
 STR_2442    :<not used anymore>
-STR_2443    :{WINDOW_COLOUR_2}Koszt tygodniowy: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Koszt łączny: {BLACK}{CURRENCY2DP}
-STR_2445    :Rozpocznij kampanię
-STR_2446    :{YELLOW}Twoja kampania marketingowa na darmowe wejście do parku zakończyła się
-STR_2447    :{YELLOW}Twoja kampania marketingowa na darmowe przejażdżki {STRINGID} zakończyła się
-STR_2448    :{YELLOW}Twoja kampania marketingowa na wejście do parku za połowę ceny zakończyła się
-STR_2449    :{YELLOW}Twoja kampania marketingowa na darmowe {STRINGID} zakończyła się
-STR_2450    :{YELLOW}Twoja kmapania reklamująca park zakończyła się
-STR_2451    :{YELLOW}Twoja kampania reklamująca {STRINGID} zakończyła się
-# ------------------------------------------ Polish end
+STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
+STR_2445    :Start this marketing campaign
+STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
+STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
+STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
+STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
+STR_2450    :{YELLOW}Your advertising campaign for the park has finished
+STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
 STR_2452    :{WINDOW_COLOUR_2}Cash (less loan): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}Cash (less loan): {RED}{CURRENCY2DP}
 STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
@@ -2524,16 +2489,14 @@ STR_2481    :{SMALLFONT}{BLACK}Show graph of lateral acceleration against time
 STR_2482    :{SMALLFONT}{BLACK}Profit: {CURRENCY} per week,  Park Value: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
-# ------------------------------------------ Polish start
-STR_2485    :Sterowanie
-STR_2486    :Ogólne
-STR_2487    :Pokazuj "prawdziwe" imiona gości
-STR_2488    :{SMALLFONT}{BLACK}Przełącza między pokazywaniem imion gości a numerami
-STR_2489    :Skróty klawiszowe...
-STR_2490    :Przypisanie klawiszy
-STR_2491    :Zresetuj klawisze
-STR_2492    :{SMALLFONT}{BLACK}Przywróć wszystkie skróty klawiszowe do ustawień domyślnych
-# ------------------------------------------ Polish end
+STR_2485    :Controls
+STR_2486    :General
+STR_2487    :Show 'real' names of guests
+STR_2488    :{SMALLFONT}{BLACK}Toggle between showing 'real' names of guests and guest numbers
+STR_2489    :Shortcut keys...
+STR_2490    :Keyboard shortcuts
+STR_2491    :Reset keys
+STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settings
 STR_2493    :Close top-most window
 STR_2494    :Close all floating windows
 STR_2495    :Cancel construction mode
@@ -2566,6 +2529,7 @@ STR_2521    :Show staff list
 STR_2522    :Show recent messages
 STR_2523    :Show map
 STR_2524    :Screenshot
+### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
 STR_2526    :???
 STR_2527    :???
@@ -2748,7 +2712,7 @@ STR_2703    :Every 15 minutes
 STR_2704    :Every 30 minutes
 STR_2705    :Every hour
 STR_2706    :Never
-STR_2707    :Open new window
+STR_2707    :Use system dialog window
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
 STR_2710    :Type the name of the file.
@@ -2759,76 +2723,70 @@ STR_2714    :-
 STR_2715    :.
 STR_2716    :/
 STR_2717    :'
-# New strings (previously these were ???)
-STR_2718    :(..)
-STR_2719    :(nowy plik)
-# sec, secs
-STR_2720    :{UINT16}sek
-STR_2721    :{UINT16}sek
-# min+sec, min+secs, mins+sec, mins+secs
-STR_2722    :{UINT16}min:{UINT16}sek
-STR_2723    :{UINT16}min:{UINT16}sek
-STR_2724    :{UINT16}min:{UINT16}sek
-STR_2725    :{UINT16}min:{UINT16}sek
-# min, mins
+STR_2718    :(up)
+STR_2719    :(new file)
+STR_2720    :{UINT16}sec
+STR_2721    :{UINT16}secs
+STR_2722    :{UINT16}min:{UINT16}sec
+STR_2723    :{UINT16}min:{UINT16}secs
+STR_2724    :{UINT16}mins:{UINT16}sec
+STR_2725    :{UINT16}mins:{UINT16}secs
 STR_2726    :{UINT16}min
-STR_2727    :{UINT16}min
-# hour+min, hour+mins, hours+min, hours+mins
-STR_2728    :{UINT16}godz:{UINT16}min
-STR_2729    :{UINT16}godz:{UINT16}min
-STR_2730    :{UINT16}godz:{UINT16}min
-STR_2731    :{UINT16}godz:{UINT16}min
+STR_2727    :{UINT16}mins
+STR_2728    :{UINT16}hour:{UINT16}min
+STR_2729    :{UINT16}hour:{UINT16}mins
+STR_2730    :{UINT16}hours:{UINT16}min
+STR_2731    :{UINT16}hours:{UINT16}mins
 STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH}, Rok {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, Rok {COMMA16}
-STR_2738    :Muzyka tytułowa:
-STR_2739    :Brak
+STR_2736    :{MONTH}, Year {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
+STR_2738    :Title screen music:
+STR_2739    :None
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
-STR_2742    :Nie znaleziono css50.dat
-STR_2743    :Przekopiuj data\css17.dat z folderu RCT1 do data\css50.dat folderu instalacji RCT2.
-# End of new strings
+STR_2742    :css50.dat not found
+STR_2743    :Copy data\css17.dat from your RCT1 installation to data\css50.dat in your RCT2 installation.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
 STR_2747    :{ENDQUOTES}
 STR_2748    :Bar
-# New strings (previously these were ???)
-STR_2749    :Mój nowy scenariusz
-STR_2750    :Przenieś wszystkie do góry
-STR_2751    :Przenieś wszystkie na dół
-STR_2752    :Czysta trawa
-STR_2753    :Skoszona trawa
-STR_2754    :Podlej kwiaty
-STR_2755    :Usuń wandalizm
-STR_2756    :Usuń śmieci
-STR_2757    :Wymuś słońce
-STR_2758    :Wymuś burzę
-STR_2759    :Mniejsze odstępy
+STR_2749    :My new scenario
+# New strings used in the cheats window previously these were ???
+STR_2750    :Move all items to top
+STR_2751    :Move all items to bottom
+STR_2752    :Clear grass
+STR_2753    :Mowed grass
+STR_2754    :Water plants
+STR_2755    :Fix vandalism
+STR_2756    :Remove litter
+STR_2757    :Force Sun
+STR_2758    :Force Thunder
+STR_2759    :Zero Clearance
 STR_2760    :+{CURRENCY}
 STR_2761    :<not used anymore>
 STR_2762    :<not used anymore>
 STR_2763    :???
 STR_2764    :<not used anymore>
-STR_2765    :Przypływ Gości
-STR_2766    :Wygraj scenariusz
-STR_2767    :Zablokuj Klimat
-STR_2768    :Odblokuj Klimat
-STR_2769    :Otwórz Park
-STR_2770    :Zamknij Park
-STR_2771    :Zmniejsz Prędkość Gry
-STR_2772    :Zwiększ Prędkość Gry
-STR_2773    :Okno
-STR_2774    :Pełny ekran
-STR_2775    :Pełny ekran w oknie
-STR_2776    :Język:
+STR_2765    :Large Tram
+STR_2766    :Win scenario
+STR_2767    :Freeze Climate
+STR_2768    :Unfreeze Climate
+STR_2769    :Open Park
+STR_2770    :Close Park
+STR_2771    :Slower Gamespeed
+STR_2772    :Faster Gamespeed
+STR_2773    :Windowed
+STR_2774    :Fullscreen
+STR_2775    :Fullscreen (desktop)
+STR_2776    :Language:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
-STR_2779    :Podgląd #{COMMA16}
-STR_2780    :Dodatkowe okno podglądu
+STR_2779    :Viewport #{COMMA16}
+STR_2780    :Extra viewport
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
 STR_2782    :SHIFT + 
@@ -2846,10 +2804,8 @@ STR_2793    :{SMALLFONT}(Completed by {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
 STR_2795    :Sort
 STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the information type displayed
-# ------------------------------------------ Polish start
-STR_2797    :Przesuń widok gdy kursor blisko krawędzi
-STR_2798    :{SMALLFONT}{BLACK}Włącza przesuwanie widoku, gdy kursor zbliży się do krawędzi ekranu
-# ------------------------------------------ Polish end
+STR_2797    :Scroll view when pointer at screen edge
+STR_2798    :{SMALLFONT}{BLACK}Select whether to scroll the view when the mouse pointer is at the screen edge
 STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
 STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
@@ -2857,9 +2813,9 @@ STR_2802    :Map
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
 STR_2805    :{SMALLFONT}{BLACK}Show map of park
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
+STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
+STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
+STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
 STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
 STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
 STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
@@ -3106,11 +3062,9 @@ STR_3051    :Golf hole C
 STR_3052    :Golf hole D
 STR_3053    :Golf hole E
 STR_3054    :Loading...
-# ------------------------------------------ Polish start
-STR_3055    :Biały
-STR_3056    :Przezroczysty
-STR_3057    :{WINDOW_COLOUR_2}Znacznik Budowy:
-# ------------------------------------------ Polish end
+STR_3055    :White
+STR_3056    :Translucent
+STR_3057    :{WINDOW_COLOUR_2}Construction Marker:
 STR_3058    :Brick walls
 STR_3059    :Hedges
 STR_3060    :Ice blocks
@@ -3160,11 +3114,9 @@ STR_3103    :Can't re-paint this...
 STR_3104    :{SMALLFONT}{BLACK}List rides
 STR_3105    :{SMALLFONT}{BLACK}List shops and stalls
 STR_3106    :{SMALLFONT}{BLACK}List information kiosks and other guest facilities
-# ------------------------------------------ Polish start
-STR_3107    :Zamknij
-STR_3108    :Testuj
-STR_3109    :Otwórz
-# ------------------------------------------ Polish end
+STR_3107    :Close
+STR_3108    :Test
+STR_3109    :Open
 STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
 STR_3111    :{SMALLFONT}{BLACK}Click on design to build it
 STR_3112    :{SMALLFONT}{BLACK}Click on design to rename or delete it
@@ -3183,12 +3135,10 @@ STR_3124    :Broken {STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
-# ------------------------------------------ Polish start
-STR_3128    :Zapisz Projekt Trasy
-STR_3129    :Zapisz Projekt Trasy ze Scenerią
-STR_3130    :Zapisz
-STR_3131    :Anuluj
-# ------------------------------------------ Polish end
+STR_3128    :Save Track Design
+STR_3129    :Save Track Design with Scenery
+STR_3130    :Save
+STR_3131    :Cancel
 STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design...
 STR_3133    :Unable to build this on a slope
 STR_3134    :{RED}(Design includes scenery which is unavailable)
@@ -3398,13 +3348,11 @@ STR_3337    :<not used anymore>
 STR_3338    :{BLACK}Custom-designed layout
 STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
 STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
-# ------------------------------------------ Polish start
-STR_3341    :{SMALLFONT}{BLACK}Narzędzia
-STR_3342    :Edytor Scenariuszy
-STR_3343    :Przekonwertuj zapisaną grę do scenariusza
-STR_3344    :Projektant Kolejek
-STR_3345    :Menadżer projektów tras
-# ------------------------------------------ Polish end
+STR_3341    :{SMALLFONT}{BLACK}Game tools
+STR_3342    :Scenario Editor
+STR_3343    :Convert Saved Game to Scenario
+STR_3344    :Roller Coaster Designer
+STR_3345    :Track Designs Manager
 STR_3346    :Can't save track design...
 STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
 STR_3348    :Rename
@@ -3444,11 +3392,9 @@ STR_3381    :File is not compatible or contains invalid data
 STR_3382    :File copy failed
 STR_3383    :Select new name for track design
 STR_3384    :An existing track design already has this name - Please select a new name for this design:
-# ------------------------------------------ Polish start
-STR_3385    :Podstawy
-STR_3386    :Budowanie Własnych Przejażdżek
-STR_3387    :Budowanie Kolejek Górskich
-# ------------------------------------------ Polish end
+STR_3385    :Beginners Tutorial
+STR_3386    :Custom Rides Tutorial
+STR_3387    :Roller Coaster Building Tutorial
 STR_3388    :Unable to switch to selected mode
 STR_3389    :Unable to select additional item of scenery...
 STR_3390    :Too many items selected
@@ -3500,21 +3446,484 @@ STR_3434    :{SMALLFONT}{BLACK}Let's test the ride and see if it works!
 STR_3435    :{SMALLFONT}{BLACK}Great - It worked! Let's add the footpaths and let guests onto our new roller coaster...
 STR_3436    :{SMALLFONT}{BLACK}While waiting for our first riders, we could customise the ride a bit...
 # End of tutorial strings
-# ------------------------------------------ Polish start
-STR_3437    :{SMALLFONT}{BLACK}Usuwanie scenerii z terenu
-STR_3438    :Nie można stąd usunąć całej scenerii...
-STR_3439    :Usuń scenerię
-STR_3440    :Strona 1
-STR_3441    :Strona 2
-STR_3442    :Strona 3
-STR_3443    :Strona 4
-STR_3444    :Strona 5
-STR_3445    :Ustaw obszar do patrolowania
-STR_3446    :Wyłącz patrolowanie
+STR_3437    :{SMALLFONT}{BLACK}Clear large areas of scenery from landscape
+STR_3438    :Unable to remove all scenery from here...
+STR_3439    :Clear Scenery
+STR_3440    :Strana 1
+STR_3441    :Strana 2
+STR_3442    :Strana 3
+STR_3443    :Strana 4
+STR_3444    :Strana 5
+STR_3445    :Set Patrol Area
+STR_3446    :Cancel Patrol Area
 
-#Thousands separator
-STR_5151    :.
-#Decimal separator
-STR_5152    :,
+# New strings, cleaner
+STR_5120    :Finances
+STR_5121    :Research
+STR_5122    :Select rides by track type (like in RCT1)
+STR_5123    :Renew rides
+STR_5124    :<not used anymore>
+STR_5125    :All destructable
+STR_5126    :Random title music
+STR_5127    :{SMALLFONT}{BLACK}Disable land elevation
+STR_5128    :Selection size
+STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
+STR_5130    :Map size
+STR_5131    :Enter map size between {COMMA16} and {COMMA16}
+STR_5132    :Fix all rides
+STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
+STR_5134    :{SMALLFONT}{BLACK}Adjust larger area of land rights
+STR_5135    :{SMALLFONT}{BLACK}Buy land rights and construction rights
+STR_5136    :Land rights
+STR_5137    :Allow lift hill and launch speeds{NEWLINE}up to {VELOCITY}
+STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
+STR_5139    :{WHITE}{STRINGID}
+STR_5140    :Disable brakes failure
+STR_5141    :Disable all breakdowns
+STR_5142    :Normální rychlost
+STR_5143    :Quick Speed
+STR_5144    :Fast Speed
+STR_5145    :Turbo Speed
+STR_5146    :Hyper Speed
+STR_5147    :Cheats
+STR_5148    :{SMALLFONT}{BLACK}Change the game speed
+STR_5149    :{SMALLFONT}{BLACK}Show cheat options
+STR_5150    :Enable debugging tools
+STR_5151    :,
+STR_5152    :.
+STR_5153    :Edit Themes...
+STR_5154    :Hardware display
+STR_5155    :Allow testing of unfinished tracks
+STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
+STR_5157    :Unlock all prices
+STR_5158    :Quit to menu
+STR_5159    :Exit OpenRCT2
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
+STR_5161    :Date Format:
+STR_5162    :Day/Month/Year
+STR_5163    :Month/Day/Year
+STR_5164    :Twitch Channel name
+STR_5165    :Name peeps after followers
+STR_5166    :{SMALLFONT}{BLACK}Will name peeps after channel's Twitch followers
+STR_5167    :Track follower peeps
+STR_5168    :{SMALLFONT}{BLACK}Will turn on tracking information for guests named after channel's Twitch followers
+STR_5169    :Name peeps after people in Twitch chat
+STR_5170    :{SMALLFONT}{BLACK}Will name peeps after people in Twitch chat
+STR_5171    :Track chat peeps
+STR_5172    :{SMALLFONT}{BLACK}Will turn on tracking information for guests named after Twitch chat participants
+STR_5173    :Pull Twitch chat as news
+STR_5174    :{SMALLFONT}{BLACK}Will use Twitch chat messages preceded by !news for in game notifications
+STR_5175    :Input the name of your Twitch channel
+STR_5176    :Enable Twitch integration
+STR_5177    :Fullscreen mode:
+STR_5178    :{SMALLFONT}{BLACK}Show financial cheats
+STR_5179    :{SMALLFONT}{BLACK}Show guest cheats
+STR_5180    :{SMALLFONT}{BLACK}Show park cheats
+STR_5181    :{SMALLFONT}{BLACK}Show ride cheats
+STR_5182    :{INT32}
+STR_5183    :Base height
+STR_5184    :Enter base height between {COMMA16} and {COMMA16}
+STR_5185    :Water level
+STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
+STR_5187    :Finances
+STR_5188    :New Campaign
+STR_5189    :Výzkum
+STR_5190    :Mapa
+STR_5191    :Viewport
+STR_5192    :Poslední novinky
+STR_5193    :Pozemky
+STR_5194    :Voda
+STR_5195    :Vyčistit scénář
+STR_5196    :Pozemková práva
+STR_5197    :Scenery
+STR_5198    :Cesta
+STR_5199    :Ride Construction
+STR_5200    :Track Design Place
+STR_5201    :New Ride
+STR_5202    :Track Design Selection
+STR_5203    :Atrakce
+STR_5204    :Seznam atrakcí
+STR_5205    :Host
+STR_5206    :Seznam hostů
+STR_5207    :Zaměstnanci
+STR_5208    :seznam zaměstnanců
+STR_5209    :Banner
+STR_5210    :Object Selection
+STR_5211    :Invention List
+STR_5212    :Scenario Options
+STR_5213    :Objective Options
+STR_5214    :Map Generation
+STR_5215    :Track Design Manager
+STR_5216    :Track Design Manager List
+STR_5217    :Cheats
+STR_5218    :Themes
+STR_5219    :Nastavení
+STR_5220    :Klávesové zkratky
+STR_5221    :Změnit klávesové zkratky
+STR_5222    :Načíst/uložit
+STR_5223    :Save Prompt
+STR_5224    :Demolish Ride Prompt
+STR_5225    :Fire Staff Prompt
+STR_5226    :Track Delete Prompt
+STR_5227    :Save Overwrite Prompt
+STR_5228    :{SMALLFONT}{BLACK}Hlavní UI
+STR_5229    :{SMALLFONT}{BLACK}Park
+STR_5230    :{SMALLFONT}{BLACK}Nástroje
+STR_5231    :{SMALLFONT}{BLACK}Rides and Peeps
+STR_5232    :{SMALLFONT}{BLACK}Editory
+STR_5233    :{SMALLFONT}{BLACK}Ostatní
+STR_5234    :{SMALLFONT}{BLACK}Prompts
+STR_5235    :{SMALLFONT}{BLACK}Nastavení
+STR_5236    :Okno:
+STR_5237    :Paleta:
+STR_5238    :Current Theme:
+STR_5239    :Duplikovat
+STR_5240    :Enter a name for the theme
+STR_5241    :Can't change this theme
+STR_5242    :Theme name already exists
+STR_5243    :Invalid characters used
+STR_5244    :Themes
+STR_5245    :Top Toolbar
+STR_5246    :Bottom Toolbar
+STR_5247    :Track Editor Bottom Toolbar
+STR_5248    :Scenario Editor Bottom Toolbar
+STR_5249    :Title Menu Buttons
+STR_5250    :Title Exit Button
+STR_5251    :Title Options Button
+STR_5252    :Title Scenario Selection
+STR_5253    :Park Information
+STR_5254    :Create
+STR_5255    :{SMALLFONT}{BLACK}Create a new title sequence from scratch
+STR_5256    :Create a new theme to make changes to
+STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
+STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
+STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
+STR_5260    :Giant Screenshot
+STR_5261    :Filter
+STR_5262    :Wacky Worlds
+STR_5263    :Time Twister
+STR_5264    :Custom
+STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
+STR_5266    :{SMALLFONT}{BLACK}Display
+STR_5267    :{SMALLFONT}{BLACK}Culture and Units
+STR_5268    :{SMALLFONT}{BLACK}Audio
+STR_5269    :{SMALLFONT}{BLACK}Controls and interface
+STR_5270    :{SMALLFONT}{BLACK}Miscellaneous
+STR_5271    :{SMALLFONT}{BLACK}Twitch
+STR_5272    :{SMALLFONT}{BLACK}Small Scenery
+STR_5273    :{SMALLFONT}{BLACK}Large Scenery
+STR_5274    :{SMALLFONT}{BLACK}Footpath
+STR_5275    :Search for Objects
+STR_5276    :Enter the name of an object to search for
+STR_5277    :Clear
+STR_5278    :Sandbox mode
+STR_5279    :Sandbox mode off
+STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
+STR_5281    :{SMALLFONT}{BLACK}Features
+STR_5282    :RCT1 Ride Open/Close Lights
+STR_5283    :RCT1 Park Open/Close Lights
+STR_5284    :RCT1 Scenario Selection Font
+STR_5285    :EXPLODE!!!
+STR_5286    :{SMALLFONT}{BLACK}Makes some guests explode
+STR_5287    :Ride is already broken down
+STR_5288    :Ride is closed
+STR_5289    :No breakdowns available for this ride
+STR_5290    :Fix ride
+STR_5291    :Can't force breakdown
+STR_5292    :{SMALLFONT}{BLACK}Force a breakdown
+STR_5293    :{SMALLFONT}{BLACK}Close ride/attraction
+STR_5294    :{SMALLFONT}{BLACK}Test ride/attraction
+STR_5295    :{SMALLFONT}{BLACK}Open ride/attraction
+STR_5296    :{SMALLFONT}{BLACK}Close park
+STR_5297    :{SMALLFONT}{BLACK}Open park
+STR_5298    :{RED}{STRINGID}
+STR_5299    :{LIGHTPINK}{STRINGID}
+STR_5300    :{SMALLFONT}{BLACK}Quick fire staff
+STR_5301    :{MEDIUMFONT}{BLACK}Clear your loan
+STR_5302    :Clear loan
+STR_5303    :Allow building in pause mode
+STR_5304    :Title Sequence:
+STR_5305    :RollerCoaster Tycoon 1
+STR_5306    :RollerCoaster Tycoon 1 (AA)
+STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
+STR_5308    :RollerCoaster Tycoon 2
+STR_5309    :OpenRCT2
+STR_5310    :Random
+STR_5311    :{SMALLFONT}{BLACK}Debug tools
+STR_5312    :Show console
+STR_5313    :Show tile inspector
+STR_5314    :Tile inspector
+STR_5315    :Grass
+STR_5316    :Sand
+STR_5317    :Dirt
+STR_5318    :Rock
+STR_5319    :Martian
+STR_5320    :Checkerboard
+STR_5321    :Grass clumps
+STR_5322    :Ice
+STR_5323    :Grid (red)
+STR_5324    :Grid (yellow)
+STR_5325    :Grid (blue)
+STR_5326    :Grid (green)
+STR_5327    :Sand (dark)
+STR_5328    :Sand (light)
+STR_5329    :Checkerboard (inverted)
+STR_5330    :Underground view
+STR_5331    :Rock
+STR_5332    :Wood (red)
+STR_5333    :Wood (black)
+STR_5334    :Ice
+STR_5335    :Ride entrance
+STR_5336    :Ride exit
+STR_5337    :Park entrance
+STR_5338    :Element type
+STR_5339    :Base height
+STR_5340    :Clearance height
+STR_5341    :Flags
+STR_5342    :Choose a map tile
+STR_5343    :Automatically place staff
+STR_5344    :Changelog
+STR_5345    :Financial cheats
+STR_5346    :Guest cheats
+STR_5347    :Park cheats
+STR_5348    :Ride cheats
+STR_5349    :{SMALLFONT}{BLACK}All Rides
+STR_5350    :Max
+STR_5351    :Min
+STR_5352    :{BLACK}Happiness:
+STR_5353    :{BLACK}Energy:
+STR_5354    :{BLACK}Hunger:
+STR_5355    :{BLACK}Thirst:
+STR_5356    :{BLACK}Nausea:
+STR_5357    :{BLACK}Nausea tolerance:
+STR_5358    :{BLACK}Bathroom:
+STR_5359    :Remove guests
+STR_5360    :{SMALLFONT}{BLACK}Removes all guests from the map
+STR_5361    :Give all guests:
+STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
+STR_5363    :More than 1
+STR_5364    :Less than 15
+STR_5365    :{BLACK}Staff speed:
+STR_5366    :Normal
+STR_5367    :Fast
+STR_5368    :Reset crash status
+STR_5369    :Park parameters...
+STR_5370    :{SMALLFONT}{BLACK}Click this button to modify park{NEWLINE}parameters like restrictions,{NEWLINE}guest generation and money.
+STR_5371    :Object Selection
+STR_5372    :Invert right mouse dragging
+STR_5373    :Name {STRINGID}
+STR_5374    :Date {STRINGID}
+STR_5375    :{UP}
+STR_5376    :{DOWN}
+STR_5377    :{SMALLFONT}{BLACK}Saves
+STR_5378    :{SMALLFONT}{BLACK}Script
+STR_5379    :{SMALLFONT}{BLACK}Skip to next wait command
+STR_5380    :{SMALLFONT}{BLACK}Start playing title sequence
+STR_5381    :{SMALLFONT}{BLACK}Stop playing title sequence
+STR_5382    :{SMALLFONT}{BLACK}Restart title sequence
+STR_5383    :{SMALLFONT}{BLACK}Create a new title sequence based on the current one
+STR_5384    :{SMALLFONT}{BLACK}Delete the current title sequence
+STR_5385    :{SMALLFONT}{BLACK}Rename the current title sequence
+STR_5386    :{SMALLFONT}{BLACK}Insert a new command
+STR_5387    :{SMALLFONT}{BLACK}Edit the selected command
+STR_5388    :{SMALLFONT}{BLACK}Delete the selected command
+STR_5389    :{SMALLFONT}{BLACK}Skip to the selected command in the title sequence
+STR_5390    :{SMALLFONT}{BLACK}Move the selected command down
+STR_5391    :{SMALLFONT}{BLACK}Move the selected command up
+STR_5392    :{SMALLFONT}{BLACK}Add a save to the title sequence
+STR_5393    :{SMALLFONT}{BLACK}Remove the selected save from the title sequence
+STR_5394    :{SMALLFONT}{BLACK}Rename the selected save
+STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
+STR_5396    :{SMALLFONT}{BLACK}Reload the title sequence if changes have been made to it outside of the game
+STR_5397    :Can only be used on the title screen
+STR_5398    :Cannot edit title sequence while it's playing
+STR_5399    :Press the stop button to continue editing
+STR_5400    :Can't change this title sequence
+STR_5401    :Create a new title sequence to make changes to
+STR_5402    :Failed to load title sequence
+STR_5403    :There may be no Load or Wait command or a save may be invalid
+STR_5404    :Name already exists
+STR_5405    :Enter a name for the save
+STR_5406    :Enter a name for the title sequence
+STR_5407    :Add
+STR_5408    :Remove
+STR_5409    :Insert
+STR_5410    :Edit
+STR_5411    :Reload
+STR_5412    :Skip to
+STR_5413    :Load
+STR_5414    :Load{MOVE_X}{87}Six Flags Magic Mountain.SC6
+STR_5415    :Load{MOVE_X}{87}{STRING}
+STR_5416    :Load{MOVE_X}{87}No save selected
+STR_5417    :Location
+STR_5418    :Location{MOVE_X}{87}{COMMA16}   {COMMA16}
+STR_5419    :Rotate
+STR_5420    :Rotate{MOVE_X}{87}{COMMA16}
+STR_5421    :Zoom
+STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
+STR_5423    :Wait
+STR_5424    :Wait{MOVE_X}{87}{COMMA16}
+STR_5425    :Restart
+STR_5426    :End
+STR_5427    :Coordinates:
+STR_5428    :Anticlockwise rotations:
+STR_5429    :Zoom level:
+STR_5430    :Seconds to wait:
+STR_5431    :Save to load:
+STR_5432    :Command:
+STR_5433    :Title Sequences
+STR_5434    :Command Editor
+STR_5435    :Rename save
+STR_5436    :Edit Title Sequences...
+STR_5437    :No save selected
+STR_5438    :Can't make changes while command editor is open
+STR_5439    :A wait command with at least 4 seconds is required with a restart command
+STR_5440    :Minimise fullscreen on focus loss
+STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
+STR_5442    :Force park rating:
+STR_5443    :Speed{MOVE_X}{87}{STRINGID}
+STR_5444    :Speed:
+STR_5445    :Speed
+STR_5446    :Get
+STR_5447    :Type {STRINGID}
+STR_5448    :Ride / Vehicle {STRINGID}
+STR_5449    :Reduce game speed
+STR_5450    :Increase game speed
+STR_5451    :Open cheats window
+STR_5452    :Toggle visibility of toolbars
+STR_5453    :Select another ride
+STR_5454    :Uncap FPS
+STR_5455    :Enable sandbox mode
+STR_5456    :Disable clearance checks
+STR_5457    :Disable support limits
+STR_5458    :Rotate clockwise
+STR_5459    :Rotate anti-clockwise
+STR_5460    :Rotate view anti-clockwise
+STR_5461    :Set guests' parameters
+STR_5462    :{CURRENCY}
+STR_5463    :Goal: Have fun!
+STR_5464    :General
+STR_5465    :Climate
+STR_5466    :Staff
+STR_5467    :ALT + 
+STR_5468    :Recent messages
+STR_5469    :Scroll map up
+STR_5470    :Scroll map left
+STR_5471    :Scroll map down
+STR_5472    :Scroll map right
+STR_5473    :Cycle day / night
+STR_5474    :Display text on banners in upper case
+STR_5475    :{COMMA16} weeks
+STR_5476    :Hardware
+STR_5477    :Map rendering
+STR_5478    :Controls
+STR_5479    :Toolbar
+STR_5480    :Show toolbar buttons for:
+STR_5481    :Themes
+STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
+STR_5483    :{BLACK}({COMMA16} weeks remaining)
+STR_5484    :{BLACK}({COMMA16} week remaining)
+STR_5485    :{SMALLFONT}{STRING}
+STR_5486    :{BLACK}{COMMA16}
+STR_5487    :{SMALLFONT}{BLACK}Show recent messages
+STR_5488    :No entrance (OpenRCT2 only!)
+STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
+STR_5490    :Disable audio on focus loss
+STR_5491    :Seznam vynálezů
+STR_5492    :Nastavení scénáře
+STR_5493    :Poslat zprávu
+STR_5494    :<not used anymore>
+STR_5495    :Seznam hráčů
+STR_5496    :Hráč:
+STR_5497    :Ping:
+STR_5498    :Seznam Serverů
+STR_5499    :Jméno hráče:
+STR_5500    :Přidat Server
+STR_5501    :Spustit Server
+STR_5502    :Hra více hráčů
+STR_5503    :Enter hostname or IP address:
+STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
+STR_5505    :Nelze se připojit k serveru.
+STR_5506    :Hosté ingnorují intensitu
+STR_5507    :Handymen mow grass by default
+STR_5508    :APovolit nahrávat soubory s chybným kontrolním součtem
+STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves.
+STR_5510    :Default sound device
+STR_5511    :(UNKNOWN)
+STR_5512    :Uložit hru jako
+STR_5513    :(Rychle) uložit hru
+STR_5514    :Vypnout vandalismus
+STR_5515    :{SMALLFONT}{BLACK}Zastaví vandalismus naštvaných hostů
+STR_5516    :{SMALLFONT}{BLACK}Černá
+STR_5517    :{SMALLFONT}{BLACK}Šedá
+STR_5518    :{SMALLFONT}{BLACK}Bílá
+STR_5519    :{SMALLFONT}{BLACK}Tmavě fialová
+STR_5520    :{SMALLFONT}{BLACK}Světle fialová
+STR_5521    :{SMALLFONT}{BLACK}Jasně fialová
+STR_5522    :{SMALLFONT}{BLACK}Tmavě modrá
+STR_5523    :{SMALLFONT}{BLACK}Světle modrá
+STR_5524    :{SMALLFONT}{BLACK}Ledové modrá
+STR_5525    :{SMALLFONT}{BLACK}Temná voda
+STR_5526    :{SMALLFONT}{BLACK}Světlá voda
+STR_5527    :{SMALLFONT}{BLACK}Sytě zelená
+STR_5528    :{SMALLFONT}{BLACK}Tmavě zelená
+STR_5529    :{SMALLFONT}{BLACK}Brčálově zelená
+STR_5530    :{SMALLFONT}{BLACK}Jasně zelená
+STR_5531    :{SMALLFONT}{BLACK}Olivově zelená
+STR_5532    :{SMALLFONT}{BLACK}Tavá olivová zelená
+STR_5533    :{SMALLFONT}{BLACK}Jasně žlutá
+STR_5534    :{SMALLFONT}{BLACK}Žlutá
+STR_5535    :{SMALLFONT}{BLACK}Temně žlutá
+STR_5536    :{SMALLFONT}{BLACK}Světle oranžová
+STR_5537    :{SMALLFONT}{BLACK}Temně oranžová
+STR_5538    :{SMALLFONT}{BLACK}Světle hnědá
+STR_5539    :{SMALLFONT}{BLACK}Sytě hnědá
+STR_5540    :{SMALLFONT}{BLACK}Temně hnědá
+STR_5541    :{SMALLFONT}{BLACK}Lososová
+STR_5542    :{SMALLFONT}{BLACK}Bordeaux
+STR_5543    :{SMALLFONT}{BLACK}Sytě červená
+STR_5544    :{SMALLFONT}{BLACK}Jasně červená
+STR_5545    :{SMALLFONT}{BLACK}Temně růžová
+STR_5546    :{SMALLFONT}{BLACK}Jasně růžová
+STR_5547    :{SMALLFONT}{BLACK}Světle
+STR_5548    :Show all operating modes
+STR_5549    :Rok/Měsíc/Den
+STR_5550    :{POP16}{POP16}Rok {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :Rok/Den/Měsíc
+STR_5552    :{POP16}{POP16}Rok {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5553    :Pause game when Steam overlay is open
+STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
+STR_5555    :Show vehicles from other track types
+STR_5556    :Vyhodit hráče
+STR_5557    :Zůstat připojen při desynchronizaci (Hra více hráčů)
+STR_5558    :Změna tohoto nastavení vyžaduje restart
+STR_5559    :10 min. inspections
+STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
+STR_5561    :Nahrání souborů jazyka selhalo
+STR_5562    :POZOR!
+STR_5563    :This feature is currently unstable, take extra caution.
+STR_5564    :Insert Corrupt Element
+STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
+STR_5566    :Heslo:
+STR_5567    :Propagovat
+STR_5568    :Vyžadovat heslo
+STR_5569    :Tento server vyžaduje heslo
+STR_5570    :Hledat servery
+STR_5571    :Připojit se ke hře
+STR_5572    :Přída k oblíbeným
+STR_5573    :Odstranit z oblíbených
+STR_5574    :Jméno serveru:
+STR_5575    :Hráčů maximálně:
+STR_5576    :Port:
+STR_5577    :Jiho-Korejský Won (W)
+STR_5578    :Ruský Rubl (R)
 
-# Note: as this is an unmaintained language, don't add new strings unless you intend to become the mainainer.
+#####################
+# Rides/attractions # 
+#####################
+
+#WW
+[CONDORRD]
+STR_NAME    :Condor Ride
+STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
+STR_CPTY    :4 passengers per car

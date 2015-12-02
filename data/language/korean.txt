@@ -1132,18 +1132,18 @@ STR_1126    :정지하는 중
 STR_1127    :승객 하차 중
 STR_1128    :블록 브레이크에 의해 정지함
 STR_1129    :모든 차량을 같은 색으로
-STR_1130    :{STRINGID} 마다 다른 색
-STR_1131    :차량 마다 다른 색
+STR_1130    :{STRINGID}마다 다른 색
+STR_1131    :차량마다 다른 색
 STR_1132    :차량 {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :차량 {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}주요 색상 선택하세요
-STR_1137    :{SMALLFONT}{BLACK}1번 추가 색상 선택하세요
-STR_1138    :{SMALLFONT}{BLACK}2번 추가 색상 선택하세요
-STR_1139    :{SMALLFONT}{BLACK}트랙 지지대 색상 선택하세요
+STR_1136    :{SMALLFONT}{BLACK}주요 색상을 선택하세요
+STR_1137    :{SMALLFONT}{BLACK}1번 추가 색상을 선택하세요
+STR_1138    :{SMALLFONT}{BLACK}2번 추가 색상을 선택하세요
+STR_1139    :{SMALLFONT}{BLACK}트랙 지지대 색상을 선택하세요
 STR_1140    :{SMALLFONT}{BLACK}차량 색상을 선택하세요
-STR_1141    :{SMALLFONT}{BLACK}어떤 차량/열차를 수정할 지 선택하세요
+STR_1141    :{SMALLFONT}{BLACK}어떤 차량/열차를 수정할지 선택하세요
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1144    :이 놀이기구/시설의 입구를 건설/파괴할 수 없습니다...
@@ -1208,7 +1208,7 @@ STR_1202    :대기 중인 손님: 1명
 STR_1203    :대기 중인 손님: {COMMA16}명
 STR_1204    :대기 시간: {COMMA16}분
 STR_1205    :대기 시간: {COMMA16}분
-STR_1206    :{WINDOW_COLOUR_2}출발 대기:
+STR_1206    :{WINDOW_COLOUR_2}출발:
 STR_1207    :{WINDOW_COLOUR_2}다른 열차가 탑승장에 도착하면 열차를 출발시킴
 STR_1208    :{WINDOW_COLOUR_2}다른 보트가 탑승장에 도착하면 보트를 출발시킴
 STR_1209    :{SMALLFONT}{BLACK}출발하기 전에 승객을 기다릴지 여부를 선택하세요
@@ -1694,7 +1694,7 @@ STR_1688    :기본 크기 4 x 1
 STR_1689    :블록 브레이크
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  비용: {BLACK}{CURRENCY}
-STR_1692    :{WINDOW_COLOUR_2}  비용: {BLACK}{CURRENCY}으로부터
+STR_1692    :{WINDOW_COLOUR_2}  비용: {BLACK}{CURRENCY} 이상
 STR_1693    :{SMALLFONT}{BLACK}손님
 STR_1694    :{SMALLFONT}{BLACK}직원
 STR_1695    :{SMALLFONT}{BLACK}수익 및 지출
@@ -2221,7 +2221,7 @@ STR_2213    :{SMALLFONT}{BLACK}공원의 엔터테이너 목록을 보여줍니�
 STR_2214    :게임 일시정지 중에는 건설할 수 없습니다!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}F
+STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
 STR_2218    :{RED}{STRINGID}(놀이기구: {STRINGID})(이)가 {STRINGID}(으)로 아직 돌아오지 않았습니다!{NEWLINE}놀이기구가 멈춰있거나 Check whether it is stuck or has 상점ed
 STR_2219    :{RED}{COMMA16}명의 손님이 {STRINGID} 사고로 사망하였습니다!
 STR_2220    :{WINDOW_COLOUR_2}공원 등급: {BLACK}{COMMA16}
@@ -2281,7 +2281,7 @@ STR_2273    :{WINDOW_COLOUR_2}풍경/테마:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}이 개발에 대한 상세 내역을 보여줍니다
 STR_2275    :{SMALLFONT}{BLACK}연구 & 개발을 위한 투자 설정 창을 보여줍니다
 STR_2276    :{SMALLFONT}{BLACK}연구 & 개발 상황을 보여줍니다
-STR_2277    :알 수 없는
+STR_2277    :알 수 없음
 STR_2278    :운송용 놀이기구
 STR_2279    :얌전한 놀이기구
 STR_2280    :롤러코스터
@@ -2371,7 +2371,7 @@ STR_2363    :땅에 격자선 보이기
 STR_2364    :{SMALLFONT}{BLACK}땅에 격자선을 보여줍니다
 STR_2365    :은행이 대출을 증가시키는 것을 거절했습니다!
 STR_2366    :섭씨 ({DEGREE}C)
-STR_2367    :화씨 (F)
+STR_2367    :화씨 ({DEGREE}F)
 STR_2368    :없음
 STR_2369    :낮음
 STR_2370    :평균
@@ -2741,8 +2741,8 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{COMMA16}년 {MONTH}
-STR_2737    :{COMMA16}년 {MONTH} {STRINGID}
+STR_2736    :{POP16}{COMMA16}년 {PUSH16}{PUSH16}{MONTH}
+STR_2737    :{STRINGID} {POP16}{COMMA16}년 {PUSH16}{PUSH16}{MONTH}
 STR_2738    :타이틀 스크린 음악:
 STR_2739    :없음
 STR_2740    :롤러코스터 타이쿤 1
@@ -3486,7 +3486,7 @@ STR_5146    :엄청 빠른 속도
 STR_5147    :치트
 STR_5148    :{SMALLFONT}{BLACK}게임 속도를 변경합니다
 STR_5149    :{SMALLFONT}{BLACK}치트 창을 엽니다
-STR_5150    :디버킹 도구를 사용합니다
+STR_5150    :디버깅 도구를 사용합니다
 STR_5151    :,
 STR_5152    :.
 STR_5153    :테마 수정...
@@ -3575,7 +3575,7 @@ STR_5235    :{SMALLFONT}{BLACK}설정
 STR_5236    :창:
 STR_5237    :색상표:
 STR_5238    :현재 테마:
-STR_5239    :중복
+STR_5239    :복제
 STR_5240    :테마 이름을 입력하세요
 STR_5241    :테마를 변경할 수 없습니다
 STR_5242    :테마 이름이 이미 존재합니다
@@ -3708,7 +3708,7 @@ STR_5368    :충돌 이력 제거
 STR_5369    :공원 설정...
 STR_5370    :{SMALLFONT}{BLACK}제한, 손님 생성, 돈 등의{NEWLINE}공원과 관련된 설정을 수정하려면{NEWLINE}이 버튼을 클릭하세요.
 STR_5371    :오브젝트 선택
-STR_5372    :마우스 오른쪽으로 드래그하는 것을 왼쪽으로 변경
+STR_5372    :마우스 오른쪽 드래그시 좌우 반전
 STR_5373    :이름 {STRINGID}
 STR_5374    :날짜 {STRINGID}
 STR_5375    :{UP}
@@ -3889,6 +3889,33 @@ STR_5549    :연/월/일
 STR_5550    :{POP16}{POP16}{COMMA16}년 {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :연/일/월
 STR_5552    :{POP16}{POP16}{COMMA16}년 {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5553    :스팀 오버레이가 열려있으면 게임을 일시정지
+STR_5554    :{SMALLFONT}{BLACK}산 만들기 도구 사용
+STR_5555    :다른 종류의 놀이기구 차량을 보여줌
+STR_5556    :플레이어 추방
+STR_5557    :비동기화 이후에 계속 접속 (멀티플레이)
+STR_5558    :이 설정을 적용하기 위해서는 재시작해야합니다
+STR_5559    :점검 시간 10분으로
+STR_5560    :{SMALLFONT}{BLACK}모든 놀이기구의 점검 시간을 '매 10분마다'로 설정합니다
+STR_5561    :언어 파일을 불러오는 데 실패하였습니다
+STR_5562    :경고!
+STR_5563    :이 기능은 현재 불안정하여 오류가 나올 수 있습니다
+STR_5564    :오류 요소를 삽입
+STR_5565    :{SMALLFONT}{BLACK}오류가 난 맵 요소를 칸의 최상단에 삽입합니다. 이는 오류 요소의 위에 있는 그 어떤 요소도 숨길 것입니다.
+STR_5566    :암호:
+STR_5567    :광고
+STR_5568    :암호 필요
+STR_5569    :이 서버에 접속하려면 암호가 필요합니다
+STR_5570    :서버 검색
+STR_5571    :게임 참여
+STR_5572    :즐겨찾기 등록
+STR_5573    :즐거찾기 제거
+STR_5574    :서버 이름:
+STR_5575    :최대 플레이어 수:
+STR_5576    :포트:
+STR_5577    :대한민국 원 (₩)
+STR_5578    :러시아 루블 (R)
+STR_5579    :창 크기 조절 배수:
 
 #####################
 # Rides/attractions #
